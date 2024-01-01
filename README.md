@@ -11,9 +11,8 @@ Desenvolvedor [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/)
 
 ---
 
-<img src="https://raw.githubusercontent.com/enzoschitini/Adige/main/image/Foto.png" alt="Streamlit logo" style="margin-top:50px; max-height:50px;">
-
-# Welcome to Streamlit 👋
+#👋
+# Welcome to Streamlit 
 
 **A faster way to build and share data apps.**
 
