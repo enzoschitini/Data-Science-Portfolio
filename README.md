@@ -16,11 +16,7 @@ Desenvolvedor [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/)
 #### **As análises** 
 Os projetos que desenvolvi dizem respeito a análises descritivas, diagnósticas, preditivas e até prescritivas
 
-**As análises**
-
-Os projetos que desenvolvi dizem respeito a análises descritivas, diagnósticas, preditivas e até prescritivas
-
-**Minha relação com os dados:**
-
+#### **Minha relação com os dados:**
 Streamlit lets you turn data scripts into shareable web apps in minutes, not weeks. It’s all Python, open-source, and free! And once you’ve created an app you can use our [Community Cloud platform](https://streamlit.io/cloud) to deploy, manage, and share your app.
+
 📁
