@@ -26,4 +26,4 @@ Streamlit lets you turn data scripts into shareable web apps in minutes, not wee
 
 Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve ter + a minha trajetória
 
-📁
+### Análise exploratória e limpeza de dados 📁
