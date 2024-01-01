@@ -33,21 +33,21 @@ Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve 
 > O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 ##
 
-### 2° - Análise exploratória e limpeza de dados 📁
+### 2° - Algoritmos, modelos e métricas 📁
 ###  
 
 > ### Trevi - climate change
 > O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 ##
 
-### 3° - Análise exploratória e limpeza de dados 📁
+### 3° - Desenvolvimento avançado de gráficos 📁
 ###  
 
 > ### Trevi - climate change
 > O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 ##
 
-### 4° - Análise exploratória e limpeza de dados 📁
+### 4° - Storytelling com dados 📁
 ###  
 
 > ### Trevi - climate change
