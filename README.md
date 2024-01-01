@@ -5,7 +5,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 ---
 
-# **Enzo Schitini** | BEM-VINDO(A)! VEJA O QUE EU FIZ DE MELHOR COM CIENTISTA DE DADOS
+# **Enzo Schitini** | Bem-Vindo(a)! Veja o que eu fiz de melhor com cientista de dados
 DATA SCIENCE **PORTFÓLIO**<br> 
 Developed by [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/)
 
