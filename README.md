@@ -11,7 +11,7 @@ Desenvolvedor [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/)
 
 ---
 
-#👋
+👋
 # Welcome to Streamlit 
 
 **A faster way to build and share data apps.**
