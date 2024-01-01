@@ -11,7 +11,7 @@ Desenvolvedor [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/)
 
 ---
 
-<img src="https://raw.githubusercontent.com/enzoschitini/Adige/main/image/Foto.png" alt="Streamlit logo" style="margin-top:50px"></img>
+<img src="https://raw.githubusercontent.com/enzoschitini/Adige/main/image/Foto.png" alt="Streamlit logo" style="margin-top:50px; max-height:100px;">
 
 # Welcome to Streamlit 👋
 
