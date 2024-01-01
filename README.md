@@ -27,3 +27,5 @@ Streamlit lets you turn data scripts into shareable web apps in minutes, not wee
 Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve ter + a minha trajetória
 
 ### 1° - Análise exploratória e limpeza de dados 📁
+
+- [Nome](https://github.com/enzoschitini/Data-Science-Portfolio)
