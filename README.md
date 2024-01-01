@@ -71,5 +71,6 @@ Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve 
 
 
 <p align="center">
-  Linkdin • Kaggle • Site
+  Enzo Schitini
+  Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
 </p>
