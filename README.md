@@ -14,7 +14,6 @@ Desenvolvedor [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/)
 # O que você vai encontrar nesta página? 👋
 
 **As análises**
-
 Os projetos que desenvolvi dizem respeito a análises descritivas, diagnósticas, preditivas e até prescritivas
 
 **As análises**
