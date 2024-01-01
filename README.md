@@ -30,14 +30,16 @@ Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve 
 ###  
 
 > ### Trevi - climate change
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver Trevi](https://github.com/enzoschitini/Data-Science-Portfolio)
+> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 
-> ### Trevi - climate change
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver Trevi](https://github.com/enzoschitini/Data-Science-Portfolio)
+> ### FIFA National teams
+> Este projeto irá explorar o desempenho das seleções nacionais de futebol de 1993 a 2022, oferecendo uma visão detalhada e envolvente das suas façanhas em campo. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 
-> ### Trevi - climate change
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver Trevi](https://github.com/enzoschitini/Data-Science-Portfolio)
+> ### Global peace index 2023
+> Este algoritmo tenta entender o compor tamento dos países nos últimos anos em relação ao índice de paz mundial. Os dados vão de 2008 a 2023, ao todo: 16 anos de análise. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 
+> ### Imola kepler data
+> Esse é um algoritmo que revela dados incríveis sobre exoplanetas e a temperatura das estrelas. O telescópio é dedicado à busca de exoplanetas em sistemas estelares além do nosso. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 
 <table border="0">
   <tr>
