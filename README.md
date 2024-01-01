@@ -3,13 +3,13 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 <img src="https://raw.githubusercontent.com/enzoschitini/Adige/main/image/Group.png" alt="capa">
 
----
+
 
 # **Bem-Vindo(a)!** • Veja o que eu fiz de melhor com cientista de dados
 **+ 18** Projetos 
 #### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
 
----
+
 
 # O que você vai encontrar nesta página? 👋
 
