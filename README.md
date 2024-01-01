@@ -7,8 +7,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 # **Bem-Vindo(a)!** • Veja o que eu fiz de melhor com cientista de dados
 DATA SCIENCE **PORTFÓLIO**<br> 
-Desenvolvedor:
-### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
+#### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
 
 ---
 
