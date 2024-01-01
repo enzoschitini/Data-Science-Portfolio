@@ -69,8 +69,10 @@ Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve 
 > ### Imola kepler data
 > Esse é um algoritmo que revela dados incríveis sobre exoplanetas e a temperatura das estrelas. O telescópio é dedicado à busca de exoplanetas em sistemas estelares além do nosso. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 
-
 <p align="center">
   Enzo Schitini
+</p>
+
+<p align="center">
   Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
 </p>
