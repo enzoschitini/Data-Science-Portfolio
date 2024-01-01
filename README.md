@@ -73,6 +73,7 @@ Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve 
 
 <p align="center">
   Enzo Schitini
+  [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/)
 </p>
 
 <p align="center">
