@@ -84,8 +84,6 @@ Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve 
     <td>
 
 Il tuo titolo
-<br><br>
-Il tuo testo
 
     ffffff
 
