@@ -93,7 +93,7 @@ Il tuo testo
 Un piccolo testo
 
     </td>
-  </tr>
+  print('')
 </div>
 
 
