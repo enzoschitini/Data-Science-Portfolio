@@ -89,10 +89,6 @@ Il tuo testo
 
     ffffff
 
-Un piccolo testo
-
-    </td>
-  print('')
 </div>
 
 
