@@ -79,7 +79,7 @@ Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve 
   Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
 </p>
 
-<table>
+<div>
   <tr>
     <td>
 
@@ -94,7 +94,7 @@ Un piccolo testo
 
     </td>
   </tr>
-</table>
+</div>
 
 
 
