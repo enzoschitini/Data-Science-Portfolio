@@ -87,9 +87,7 @@ Il tuo titolo
 <br><br>
 Il tuo testo
 
-    </td>
     ffffff
-    <td>
 
 Un piccolo testo
 
