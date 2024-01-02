@@ -87,6 +87,16 @@ Il tuo titolo
 
 </div>
 
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;">
+    <h2>TITULO</h2>
+    <p>Estamos prontos para ler o arquivo. O pandas trabalha com o conceito de dataframe, uma estrutura de dados com muitos métodos e atributos que aceleram o processamento de dados. Alguns exemplos:</p>
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <h2>TITULO</h2>
+    <p>Estamos prontos para ler o arquivo. O pandas trabalha com o conceito de dataframe, uma estrutura de dados com muitos métodos e atributos que aceleram o processamento de dados. Alguns exemplos:</p>
+  </div>
+</div>
 
 
 
