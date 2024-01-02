@@ -80,8 +80,6 @@ Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve 
 </p>
 
 <div>
-  <tr>
-    <td>
 
 Il tuo titolo
 
