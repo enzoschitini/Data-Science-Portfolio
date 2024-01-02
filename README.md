@@ -17,7 +17,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 Os projetos que desenvolvi dizem respeito a análises descritivas, diagnósticas, preditivas e até prescritivas
 
 #### **Machine learning** 
-Enquanto os modelos de machine learning lidam com conceitos como classificação, Regressão e Clusterização
+Enquanto os modelos de machine learning lidam com conceitos como Classificação, Regressão e Clusterização
 
 #### **Minha relação com os dados:**
 Streamlit lets you turn data scripts into shareable web apps in minutes, not weeks. It’s all Python, open-source, and free! And once you’ve created an app you can use our [Community Cloud platform](https://streamlit.io/cloud) to deploy, manage, and share your app.
