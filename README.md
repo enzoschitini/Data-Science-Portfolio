@@ -79,10 +79,23 @@ Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve 
   Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
 </p>
 
-| Titolo |  |
-| --- | --- |
-| Il tuo titolo | Un piccolo testo |
-| Il tuo testo |  |
+<table>
+  <tr>
+    <td>
+
+Il tuo titolo
+<br><br>
+Il tuo testo
+
+    </td>
+    <td>
+
+Un piccolo testo
+
+    </td>
+  </tr>
+</table>
+
 
 
 
