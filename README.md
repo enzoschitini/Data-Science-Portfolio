@@ -13,15 +13,16 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 # O que você vai encontrar nesta página? 👋
 
+#### **Minha relação com os dados:**
+A ciência sempre me fascinou pelo fato de podermos descobrir coisas novas. E foi por nessa vontade de fazer descobertas que me tornei Data Scientist, porque você pode resolver problemas reais e fazer as tais descobertas. 
+Para mim, todo Dataset esconde uma história e somos nós que temos que encontrá-la e saber contá-la
+
 #### **As análises** 
 Os projetos que desenvolvi dizem respeito a análises descritivas, diagnósticas, preditivas e até prescritivas
 
 #### **Machine learning** 
 Enquanto os modelos de machine learning lidam com conceitos como Classificação, Regressão e Clusterização
-
-#### **Minha relação com os dados:**
-Streamlit lets you turn data scripts into shareable web apps in minutes, not weeks. It’s all Python, open-source, and free! And once you’ve created an app you can use our [Community Cloud platform](https://streamlit.io/cloud) to deploy, manage, and share your app.
-
+##
 ## 📁 Projetos criados:
 
 Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve ter + a minha trajetória
