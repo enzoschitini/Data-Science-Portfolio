@@ -22,7 +22,7 @@ Os projetos que desenvolvi dizem respeito a análises descritivas, diagnósticas
 
 #### **Machine learning** 
 Enquanto os modelos de machine learning lidam com conceitos como Classificação, Regressão e Clusterização
-##
+
 ## 📁 Projetos criados:
 
 Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve ter + a minha trajetória
