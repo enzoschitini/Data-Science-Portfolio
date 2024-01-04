@@ -25,7 +25,7 @@ Enquanto os modelos de machine learning lidam com conceitos como Classificação
 
 ## 📁 Projetos criados:
 
-Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve ter + a minha trajetória
+Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter os melhores Insights. Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve ter + a minha trajetória
 
 ### 1° - Análise exploratória e limpeza de dados 
 ###  
