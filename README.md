@@ -18,10 +18,10 @@ A ciência sempre me fascinou pelo fato de podermos descobrir coisas novas. E fo
 ### `Para mim, todo Dataset esconde uma história e só que temos que encontrá-la e saber contá-la`
 
 #### - **As análises** 
-Os projetos que desenvolvi dizem respeito a análises descritivas, diagnósticas, preditivas e até prescritivas
+Os projetos que desenvolvi dizem respeito a `análises descritivas`, `diagnósticas`, `preditivas` `e até prescritivas`
 
 #### - **Machine learning** 
-Enquanto os modelos de machine learning lidam com conceitos como Classificação, Regressão e Clusterização
+Enquanto os modelos de machine learning lidam com conceitos como `Classificação`, `Regressão` e `Clusterização`
 
 ## 📁 Projetos criados:
 
