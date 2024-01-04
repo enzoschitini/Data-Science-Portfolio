@@ -16,10 +16,16 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 ### **Minha relação com os dados:**
 A ciência sempre me fascinou pelo fato de podermos descobrir coisas novas. E foi por nessa vontade de fazer descobertas que me tornei Data Scientist, porque nos permite resolver problemas reais e fazer as tais descobertas. 
 
-<p align="center" font="22">
-  # Para mim, todo Dataset esconde uma história e somos nós 
+<p align="center">
+  Para mim, todo Dataset esconde uma história e somos nós 
   que temos que encontrá-la e saber contá-la!
 </p>
+
+<p align="center" style="font-size: 20px;">
+  Para mim, todo Dataset esconde uma história e somos nós 
+  que temos que encontrá-la e saber contá-la!
+</p>
+
 
 #### - **As análises** 
 Os projetos que desenvolvi dizem respeito a análises descritivas, diagnósticas, preditivas e até prescritivas
