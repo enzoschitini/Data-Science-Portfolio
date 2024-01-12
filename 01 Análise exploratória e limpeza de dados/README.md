@@ -16,3 +16,13 @@ A ciência sempre me fascinou pelo fato de podermos descobrir coisas novas. E fo
 
 #### - **Os projetos tratam** 
 `Análises exploratórias` e `Análises descritivas`
+
+##
+
+<p align="center">
+  Enzo Schitini
+</p>
+
+<p align="center">
+  Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
+</p>
