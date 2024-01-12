@@ -13,6 +13,8 @@ Na minha opinião, a análise exploratória é uma das fases mais importantes de
 
 > Vamos explorar dados de crédito e contém informações sobre clientes de uma instituição financeira. Em especial, estamos interessados em explicar a segunda coluna, chamada de **default**, que indica se um cliente é adimplente(`default = 0`), ou inadimplente (`default = 1`), ou seja, queremos entender o porque um cliente deixa de honrar com suas dívidas baseado no comportamento de outros atributos, como salário, escolaridade e movimentação financeira. Uma descrição completa dos atributos está abaixo.
 
+### [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/blob/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/EBAC/EBAC.ipynb)
+
 ##
 
 <p align="center">
