@@ -39,7 +39,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 ##
 
 > ### Projeto EBAC
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/EBAC)
+> Vamos explorar dados de crédito e contém informações sobre clientes de uma instituição financeira. Em especial, estamos interessados em explicar a segunda coluna, chamada de default, que indica se um cliente é adimplente(default = 0), ou inadimplente (default = 1), ou seja, queremos entender o porque um cliente deixa de honrar com suas dívidas baseado no comportamento de outros atributos, como salário, escolaridade e movimentação financeira. Uma descrição completa dos atributos está abaixo. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/EBAC)
 ##
 
 ### 2° - Algoritmos, modelos e métricas 
