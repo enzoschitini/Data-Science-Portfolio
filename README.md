@@ -71,7 +71,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 > O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 ##
 
-### 5° - Meu restaurante: Meus primeiros projetos
+### 5° - Minha trajetória: Meus primeiros projetos
 ###  
 
 > ### Trevi - climate change

@@ -1,4 +1,4 @@
-# **05** • Meu restaurante: Meus primeiros projetos
+# **05** • Minha trajetória: Meus primeiros projetos
 **Data Science** Projetos 
 #### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
 
