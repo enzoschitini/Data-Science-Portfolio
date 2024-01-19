@@ -3,6 +3,14 @@
 #### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
 
 ---
+<details>
+  <summary>Titolo della lista a discesa</summary>
+
+  - Elemento 1
+  - Elemento 2
+  - Elemento 3
+</details>
+
 
 # Olá! Bem-Vindo(a)! 👋
 
