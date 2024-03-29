@@ -30,12 +30,12 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 ### 1° - Análise exploratória e limpeza de dados 
 ###  
 
-> ### Análise avançada
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
+> ### Dados do SINASC - Análise avançada
+> Vamos começar analisando dados do SINASC, sistema de informação sobre nascidos vivos. Aqui vamos encontrar os Insights e responder a algumas questões. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 ##
 
 > ### Tratamento e limpeza de dados 
-> Neste projeto partimos de dados brutos, nos quais existem erros estruturais nas colunas e valores. O objetivo é transformá-los para que futuras análises ou modelos de aprendizado de máquina possam ser realizados. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
+> Neste projeto partimos de dados brutos, nos quais existem erros estruturais nas colunas e nos valores. O objetivo é transformá-los para que futuras análises ou modelos de aprendizado de máquina possam ser realizados. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 ##
 
 > ### Projeto EBAC
