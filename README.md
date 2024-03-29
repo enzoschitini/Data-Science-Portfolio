@@ -5,13 +5,13 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 ---
 
-# **Bem-Vindo(a)!** • Veja o que eu fiz de melhor com cientista de dados
+## **Bem-Vindo(a)!** • Veja o que eu fiz de melhor com cientista de dados
 **+ 18** Projetos 
 #### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
 
 ---
 
-# O que você vai encontrar nesta página? 👋
+## O que você vai encontrar nesta página? 👋
 
 ### **Minha relação com os dados:**
 A ciência sempre me fascinou pelo fato de podermos descobrir coisas novas. E foi por essa vontade de fazer descobertas que me tornei Data Scientist, para resolver problemas reais e fazer as tais descobertas.
