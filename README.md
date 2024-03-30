@@ -61,7 +61,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 ##
 
 > ### Tratando e melhorando gráficos
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
+> Neste projeto utilizo minhas habilidades de UX e UI design para melhorar gráficos e mapas de alguns algoritmos de Data Science, para torná-los mais claros e ao mesmo tempo ricos em informações. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 ##
 
 > ### Gráficos 3D
