@@ -31,10 +31,10 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 ###  
 
 > ### Dados do SINASC - Análise avançada
-> Vamos começar analisando dados do SINASC, sistema de informação sobre nascidos vivos. Aqui vamos encontrar os Insights e responder a algumas questões. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
+> Vamos começar analisando dados do sistema de informação sobre nascidos vivos (SINASC), o objetivo é fazer uma análise profunda sobre o assunto para encontrar insights e responder algumas perguntas. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 ##
 
-> ### Site - Análise avançada
+> ### E-Commerce Customer Data For Behavior Analysis - Análise avançada
 > Fiz uma análise das vendas de um site para entender melhor como são seus clientes.  Além disso, após a análise, um modelo de aprendizado de máquina também pode ser desenvolvido para prever se um cliente sairá da plataforma.[Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 ##
 
