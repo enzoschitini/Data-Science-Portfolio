@@ -35,7 +35,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 ##
 
 > ### E-Commerce Customer Data For Behavior Analysis - Análise avançada
-> Fiz uma análise das vendas de um site para entender melhor como são seus clientes.  Além disso, após a análise, um modelo de aprendizado de máquina também pode ser desenvolvido para prever se um cliente sairá da plataforma.[Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
+> Fiz uma análise das vendas de um E-Commerce para entender melhor como são seus clientes.  Além disso, após a análise, um modelo de aprendizado de máquina também pode ser desenvolvido para prever se um cliente sairá da plataforma. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 ##
 
 > ### Tratamento e limpeza de dados 
@@ -56,16 +56,16 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 ### 3° - Desenvolvimento avançado de gráficos e mapas 
 ###  
 
-> ### Criando gráficos
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
+> ### Criando gráficos e mapas
+> Aqui trabalhamos a visualização de dados através de gráficos dinâmicos e mapas interativos. Usando ferramentas de Data Science e design visual, transformo conjuntos de dados complexos em representações visualmente envolventes e intuitivas. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 ##
 
-> ### Tratando e melhorando gráficos
+> ### Tratando e melhorando gráficos e mapas
 > Neste projeto utilizo minhas habilidades de UX e UI design para melhorar gráficos e mapas de alguns algoritmos de Data Science, para torná-los mais claros e ao mesmo tempo ricos em informações. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 ##
 
 > ### Gráficos 3D
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
+> Mergulho no mundo da visualização de dados tridimensionais, trazendo os conceitos e relacionamentos ocultos nos dados a um novo nível de profundidade e compreensão. Através do uso de técnicas avançadas de gráficos 3D, transformo dados complexos em representações espaciais que oferecem uma perspectiva única. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 ##
 
 ### 4° - Storytelling com dados 
