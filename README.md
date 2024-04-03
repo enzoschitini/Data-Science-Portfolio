@@ -35,7 +35,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 ##
 
 > ### E-Commerce Customer Data For Behavior Analysis - Análise avançada
-> Fiz uma análise das vendas de um E-Commerce para entender melhor como são seus clientes.  Além disso, após a análise, um modelo de aprendizado de máquina também pode ser desenvolvido para prever se um cliente sairá da plataforma. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/E-commerce%20Customer%20Data%20For%20Behavior%20Analysis)
+> Fiz uma análise das vendas de um E-Commerce para entender melhor como são seus clientes. O conjunto de dados contém informações sobre 100.000 pedidos de 2016 a 2018 feitos em vários mercados no Brasil. Seus recursos permitem visualizar um pedido em múltiplas dimensões: desde status do pedido, preço, desempenho de pagamento e transporte, localização do cliente, atributos do produto e, finalmente, avaliações escritas pelos clientes. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/E-commerce%20Customer%20Data%20For%20Behavior%20Analysis)
 ##
 
 > ### Tratamento e limpeza de dados 
