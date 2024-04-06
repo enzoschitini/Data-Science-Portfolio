@@ -30,7 +30,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 ### 1° - Análise exploratória e limpeza de dados 
 ###  
 
-> ### Dados do SINASC - Análise avançada
+> ### Dados do SINASC de Rondônia - Análise avançada
 > Vamos começar analisando dados do sistema de informação sobre nascidos vivos (SINASC), o objetivo é fazer uma análise profunda sobre o assunto para encontrar insights e responder algumas perguntas. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
 ##
 
