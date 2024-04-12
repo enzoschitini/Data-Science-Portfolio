@@ -76,6 +76,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 ##
 
 ### 5° - Minha trajetória: Meus primeiros projetos
+**ATENÇÃO:** *Este é um dos meus primeiros projetos, tantas coisas se eu tivesse que fazê hoje, faria de forma diferente*
 ###  
 
 > ### Trevi - climate change
