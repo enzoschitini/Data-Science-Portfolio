@@ -13,6 +13,8 @@ Uma pesquisa abrangente sobre tendências demográficas e de saúde em 2019 no e
 **Data Science** Portfólio | *27 Abril 2024*
 
 [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
+###
+[🪁 Sinasc • Metriche da cercare](https://www.notion.so/enzoschitini/442ad840470a4346addf67f0c27a92e8?v=315fbf86fbd64d66b12ff27a1005f13c)
 
 ### [ACESSE O PROJETO >>>](https://github.com/enzoschitini/Data-Science-Portfolio/blob/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/Sinasc/An%C3%A1lise%20Explorat%C3%B3ria.ipynb)
 
