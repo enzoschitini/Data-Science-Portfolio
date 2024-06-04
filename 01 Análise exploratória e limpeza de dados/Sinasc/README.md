@@ -59,7 +59,7 @@ Ao fornecer uma visão detalhada sobre os nascimentos, este projeto contribui pa
 
 ## 🔥 Insights
 
-<img src="https://raw.githubusercontent.com/enzoschitini/Data-Science-Portfolio/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/Sinasc/image/INSIGHTS.png" alt="capa">
+https://github.com/enzoschitini/Data-Science-Portfolio/assets/70824630/daac28eb-0d4c-4903-9b0a-7cee240dd1d1
 
 ## Como foi realizada análise :
 
