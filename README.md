@@ -58,7 +58,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio)
 ##
 
-### 3° - Desenvolvimento avançado de gráficos e mapas 
+### 3° - Visualização de dados (Gráficos e Mapas + Streamlit) 
 ###  
 
 > ### Criando gráficos e mapas
