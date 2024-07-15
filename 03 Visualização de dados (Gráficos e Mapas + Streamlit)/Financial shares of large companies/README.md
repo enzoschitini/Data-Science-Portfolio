@@ -41,13 +41,3 @@ Este projeto é de grande relevância tanto para investidores individuais quanto
 ## Desenvolvedor
 
 Enzo Schitini
-
----
-
-Esta aplicação foi desenvolvida para facilitar a análise e visualização de dados financeiros, oferecendo uma ferramenta poderosa e acessível para investidores e analistas de mercado. Sinta-se à vontade para contribuir com melhorias ou relatar problemas através da aba de issues no GitHub.
-
----
-
-### Licença
-
-Este projeto é licenciado sob os termos da licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
