@@ -1,6 +1,6 @@
 ### [ACESSE O PROJETO >>>](https://github.com/enzoschitini/Data-Science-Portfolio/blob/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/Sinasc/An%C3%A1lise%20Explorat%C3%B3ria.ipynb)
 
-<img src="https://raw.githubusercontent.com/enzoschitini/Data-Science-Portfolio/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/Sinasc/image/Copetina.png" alt="capa">
+<img src="https://raw.githubusercontent.com/enzoschitini/Data-Science-Portfolio/main/03%20Visualiza%C3%A7%C3%A3o%20de%20dados%20(Gr%C3%A1ficos%20e%20Mapas%20%2B%20Streamlit)/Financial%20shares%20of%20large%20companies/img/Capa.png" alt="capa">
 
 ---
 
@@ -21,6 +21,8 @@ Este projeto é de grande relevância tanto para investidores individuais quanto
 - **Seleção de Período**: Os usuários podem definir o período para análise dos dados financeiros.
 - **Tipos de Gráficos**: Vários tipos de gráficos interativos.
 - **Indicadores Financeiros**: Cálculo e visualização de indicadores financeiros importantes.
+
+<img src="https://raw.githubusercontent.com/enzoschitini/Data-Science-Portfolio/main/03%20Visualiza%C3%A7%C3%A3o%20de%20dados%20(Gr%C3%A1ficos%20e%20Mapas%20%2B%20Streamlit)/Financial%20shares%20of%20large%20companies/img/Empresas.png" alt="capa">
 
 ## Tecnologias Utilizadas
 
