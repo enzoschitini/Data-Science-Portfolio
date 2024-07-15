@@ -24,8 +24,36 @@ st.write(f'## {resposta}')
 
 if resposta == 'Petrobras':
     df = pd.read_csv('Data\Petróleo Brasileiro S.A. - Petrobras (PBR).csv')
-    #df = pl.dataframe_ativo('PBR', resposta)
-    #df = pl.engenharia_de_atributos(df)
 
     pl = Analise
     pl.painel_geral(df, 'Petróleo Brasileiro S.A. - Petrobras (PBR)', "img\Petrobras.png")
+
+elif resposta == 'Coca-Cola':
+    df = pd.read_csv('Data\The Coca-Cola Company (KO).csv')
+
+    pl = Analise
+    pl.painel_geral(df, 'The Coca-Cola Company (KO)', "img\Coca-Cola.png")
+
+elif resposta == 'Amazon':
+    df = pd.read_csv('Data\Amazon - Stock market shares.csv')
+
+    pl = Analise
+    pl.painel_geral(df, 'Amazon - Stock market shares', "img\Amazon.png")
+
+elif resposta == 'Tesla':
+    df = pd.read_csv('Data\Tesla, Inc. (TSLA).csv')
+
+    pl = Analise
+    pl.painel_geral(df, 'Tesla, Inc. (TSLA)', "img\Tesla.png")
+
+elif resposta == 'Itaú Unibanco':
+    df = pd.read_csv('Data\Itaú Unibanco Holding S.A. (ITUB).csv')
+
+    pl = Analise
+    pl.painel_geral(df, 'Itaú Unibanco Holding S.A. (ITUB)', "img\Itaú.png")
+
+elif resposta == 'Emirates':
+    df = pd.read_csv('Data\Emirates Global Sukuk S USD Acc.csv')
+
+    pl = Analise
+    pl.painel_geral(df, 'Emirates Global Sukuk S USD Acc', "img\Emirates.png")
