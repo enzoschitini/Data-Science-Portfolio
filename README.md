@@ -61,9 +61,9 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 ### 3° - Visualização de dados (Gráficos e Mapas + Streamlit) 
 ###  
 
-> ### Criando gráficos e mapas
-> Aqui trabalhamos a visualização de dados através de gráficos dinâmicos e mapas interativos. Usando ferramentas de Data Science e design visual, transformo conjuntos de dados complexos em representações visualmente envolventes e intuitivas. 
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio)
+> ### Aplicação Streamlit que gera gráficos de dados coletados do Yahoo Finance
+> Este projeto envolve o desenvolvimento de uma aplicação interativa usando Streamlit, que permite aos usuários visualizar dados financeiros coletados do Yahoo Finance. A aplicação oferece uma interface amigável para consultar, analisar e visualizar informações sobre diferentes ativos financeiros, tais como ações, índices e moedas. Com funcionalidades como seleção de período, tipos de gráficos e indicadores financeiros, a aplicação visa facilitar a compreensão das tendências de mercado e a tomada de decisões informadas. Dados de empresas como Petrobras, Coca-Cola, Amazon, Tesla, Itaú e Emirates.
+> [ACESSE O PROJETO](https://financial-companies.streamlit.app/)
 ##
 
 > ### Tratando e melhorando gráficos e mapas
