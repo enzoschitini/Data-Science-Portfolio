@@ -40,25 +40,14 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/E-commerce%20Customer%20Data%20For%20Behavior%20Analysis)
 ##
 
-> ### Tratamento e limpeza de dados 
-> Neste projeto partimos de dados brutos, nos quais existem erros estruturais nas colunas e nos valores. O objetivo é transformá-los para que futuras análises ou modelos de aprendizado de máquina possam ser realizados.
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio)
-##
-
 > ### Projeto EBAC
 > Vamos explorar dados de crédito e contém informações sobre clientes de uma instituição financeira. Queremos entender o porque um cliente deixa de honrar com suas dívidas baseado no comportamento.
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/EBAC)
 ##
 
 ### 2° - Algoritmos, modelos e métricas 
-###  
 
-> ### Trevi - climate change
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos.
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio)
-##
-
-### 3° - Visualização de dados (Gráficos e Mapas + Streamlit) 
+### 3° - Visualização de dados (Gráficos + Streamlit) 
 ###  
 
 > ### Aplicação Streamlit que gera gráficos de dados coletados do Yahoo Finance
@@ -66,23 +55,8 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/blob/main/03%20Visualiza%C3%A7%C3%A3o%20de%20dados%20(Gr%C3%A1ficos%20e%20Mapas%20+%20Streamlit)/Financial%20shares%20of%20large%20companies/README.md)
 ##
 
-> ### Tratando e melhorando gráficos e mapas
-> Neste projeto utilizo minhas habilidades de UX e UI design para melhorar gráficos e mapas de alguns algoritmos de Data Science, para torná-los mais claros e ao mesmo tempo ricos em informações.
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio)
-##
-
-> ### Gráficos 3D
-> Mergulho no mundo da visualização de dados tridimensionais, trazendo os conceitos e relacionamentos ocultos nos dados a um novo nível de profundidade e compreensão. Através do uso de técnicas avançadas de gráficos 3D, transformo dados complexos em representações espaciais que oferecem uma perspectiva única.
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio)
-##
-
 ### 4° - Storytelling com dados 
-###  
 
-> ### Trevi - climate change
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos.
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio)
-##
 
 ### 5° - Minha trajetória: Meus primeiros projetos
 **ATENÇÃO:** *Estes são alguns dos meus primeiros projetos. Portanto, tantas coisas se eu tivesse que fazê hoje, faria de forma diferente*
