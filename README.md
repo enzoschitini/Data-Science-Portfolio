@@ -1,7 +1,7 @@
 # Data Science & Data Analyst Portfolio
 Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter os melhores Insights.
 
-<img src="https://raw.githubusercontent.com/enzoschitini/repository-data-science-library/main/image/Copertina-Profilo.png" alt="capa">
+<img src="https://raw.githubusercontent.com/enzoschitini/repository-data-science-library/main/image/Frame%2021.png" alt="capa">
 
 ---
 
