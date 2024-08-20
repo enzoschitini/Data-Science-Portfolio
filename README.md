@@ -3,12 +3,8 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 <img src="https://raw.githubusercontent.com/enzoschitini/repository-data-science-library/main/image/Frame%2021.png" alt="capa">
 
----
-
 ## **Olá! • Veja o que eu fiz de melhor com dados**
 #### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
-
----
 
 ### **Minha relação com os dados:**
 A ciência sempre me fascinou pelo fato de podermos descobrir coisas novas. E foi por essa vontade de fazer descobertas que me tornei Data Scientist, para resolver problemas reais e fazer as tais descobertas.
