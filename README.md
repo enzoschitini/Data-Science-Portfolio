@@ -14,9 +14,6 @@ A ciência sempre me fascinou pelo fato de podermos descobrir coisas novas. E fo
 
 Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter `os melhores Insights`. Dividi os projetos com os temas que `abrangem as fases que qualquer projeto deve ter` `+ a minha trajetória`
 
-### 1° - Análise exploratória e limpeza de dados 
-###  
-
 > ### Dados do SINASC de Rondônia em 2019 - Análise avançada 👑
 > Pesquisa sobre os dados do SINASC no estado de Rondônia (BR) no ano de 2019. O meu objetivo é realizar uma análise aprofundada do tema, encontrar padrões nos dados e conectar à realidade. Definitivamente um dos projetos em que mais me esforcei para obter bons resultados, espero que você, assim como eu, ache interessante.
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/Sinasc)
@@ -32,20 +29,12 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/EBAC)
 ##
 
-### 2° - Algoritmos, modelos e métricas 
-
-### 3° - Visualização de dados (Gráficos + Streamlit) 
-###  
-
 > ### Aplicação Streamlit que gera gráficos de dados coletados do Yahoo Finance
 > Este projeto envolve o desenvolvimento de uma aplicação interativa usando Streamlit, que permite aos usuários visualizar dados financeiros coletados do Yahoo Finance. A aplicação oferece uma interface amigável para consultar, analisar e visualizar informações sobre diferentes ativos financeiros, tais como ações, índices e moedas. Com funcionalidades como seleção de período, tipos de gráficos e indicadores financeiros, a aplicação visa facilitar a compreensão das tendências de mercado e a tomada de decisões informadas. Dados de empresas como Petrobras, Coca-Cola, Amazon, Tesla, Itaú e Emirates.
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/blob/main/03%20Visualiza%C3%A7%C3%A3o%20de%20dados%20(Gr%C3%A1ficos%20e%20Mapas%20+%20Streamlit)/Financial%20shares%20of%20large%20companies/README.md)
 ##
 
-### 4° - Storytelling com dados 
-
-
-### 5° - Minha trajetória: Meus primeiros projetos
+### Minha trajetória: Meus primeiros projetos
 **ATENÇÃO:** *Estes são alguns dos meus primeiros projetos. Portanto, tantas coisas se eu tivesse que fazê hoje, faria de forma diferente*
 ###  
 
