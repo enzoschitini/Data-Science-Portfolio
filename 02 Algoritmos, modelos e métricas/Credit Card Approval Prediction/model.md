@@ -1,6 +1,26 @@
 # Random Forest Classifier
 *Machine Learning Model*
 
+## auc - Curva ROC (Receiver Operating Characteristic)
+
+![alt text](<model/auc - Curva ROC (Receiver Operating Characteristic).png>)
+
+O gráfico que você enviou é uma **Curva ROC (Receiver Operating Characteristic)** para um modelo de **RandomForestClassifier**. Aqui estão alguns pontos importantes:
+
+1. **Curvas ROC**: O gráfico mostra três curvas ROC:
+   - **Classe 0** (linha azul tracejada) com uma AUC de 0.87.
+   - **Classe 1** (linha verde sólida) também com uma AUC de 0.87.
+   - **Micro-média** (linha verde tracejada) com uma AUC de 0.94.
+   - **Macro-média** (linha azul sólida) com uma AUC de 0.87.
+
+2. **AUC (Área Sob a Curva)**: A AUC é uma métrica que indica a capacidade do modelo de distinguir entre as classes. Uma AUC de 1.0 representa um modelo perfeito, enquanto uma AUC de 0.5 indica um modelo que não tem poder discriminativo. No seu caso:
+   - A AUC de 0.87 para as classes 0 e 1 indica que o modelo tem uma boa capacidade de discriminação.
+   - A AUC de 0.94 para a micro-média sugere que, em média, o modelo está performando muito bem.
+
+3. **Taxa de Verdadeiros Positivos (TPR) vs. Taxa de Falsos Positivos (FPR)**: O eixo x representa a FPR e o eixo y representa a TPR. A linha diagonal pontilhada representa um modelo que não tem discriminação (AUC = 0.5).
+
+Em resumo, seu modelo de RandomForestClassifier está performando bem, especialmente considerando a AUC da micro-média de 0.94. Isso indica que o modelo é eficaz em distinguir entre as classes na maioria dos casos.
+
 ## vc - Curva de Variação do Modelo
 
 ![alt text](<model/vc - Curva de Variação do Modelo.png>)
