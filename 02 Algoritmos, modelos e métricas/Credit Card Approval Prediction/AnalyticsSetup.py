@@ -5,7 +5,8 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 df = pd.read_csv('DataFrame_Crédito.csv').drop(columns='Unnamed: 0')
-#df['Default_cat'] = df['Default_cat'].astype('object')
+df['default_cat'] = df['default']
+df['default_cat'] = df['default_cat'].astype('object')
 
 st.write('# Credit Card Approval Prediction')
 st.write('## Analytics Setup')
