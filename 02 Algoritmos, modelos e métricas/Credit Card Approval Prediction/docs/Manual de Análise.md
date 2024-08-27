@@ -135,11 +135,13 @@ Para uma visão inicial do arquivo CSV, é possível analisar as seguintes métr
 
 1. **Setup de Análise** ✅
 
-2. **Análise Bivariada**
+2. **Gráfico de dispersão para analisar o default** ✅
 
-3. **Análise de Grupos**: Identificação de padrões e agrupamentos de clientes com base em suas características, aplicando técnicas de clusterização.
+3. **Análise Bivariada**
 
-4. **Análise dos Fatores:**
+4. **Análise de Grupos**: Identificação de padrões e agrupamentos de clientes com base em suas características, aplicando técnicas de clusterização. (Encontrar variaveis que dividem os dados)
+
+5. **Análise dos Fatores:**
     - **Idade**: Avaliar a distribuição etária dos clientes, identificando faixas etárias com maior concentração, comportamento de compra e diferenças no uso de produtos e serviços.
     - **Sexo**: Comparar o comportamento de compra entre homens e mulheres, observando diferenças em preferências, gastos e uso de produtos.
     - **Dependentes**: Analisar como o número de dependentes influencia o comportamento de compra, consumo e uso de produtos e serviços.
@@ -236,3 +238,18 @@ A análise do impacto das variáveis no default pode gerar insights valiosos par
 8. Clientes com maior valor total de transações nos últimos 12 meses tendem a possuir limites de crédito mais elevados.
 9. Clientes com menor número de meses inativos nos últimos 12 meses geralmente têm um limite de crédito mais alto.
 10. Clientes com maior número de interações nos últimos 12 meses tendem a ter limites de crédito superiores.
+
+---
+
+| **1. Variáveis Demográficas**       | **2. Variáveis Financeiras**     | **3. Variáveis de Tempo**      | **4. Variáveis do Cartão**     | **5. Variável de Default** |
+|-------------------------------------|----------------------------------|--------------------------------|--------------------------------|----------------------------|
+| id                                  | salario_anual                    | meses_de_relacionamento        | tipo_cartao                    | default                    |
+| idade                               | limite_credito                   | interacoes_12m                 | taxa_utilizacao_credito        |                            |
+| sexo                                | renda_alta                       | meses_inativo_12m              | valor_medio_transacao          |                            |
+| dependentes                         |                                  | valor_transacoes_12m           | frequencia_interacao           |                            |
+| escolaridade                        |                                  | qtd_transacoes_12m             | qtd_produtos                   |                            |
+| estado_civil                        |                                  | transacoes_por_mes             |                                |                            |
+| grupo_etario                        |                                  | meses_ativos_12m               |                                |                            |
+| idade_faixa                         |                                  |                                |                                |                            |
+| idade_estado_civil                  |                                  |                                |                                |                            |
+| escolaridade_renda                  |                                  |                                |                                |                            |
