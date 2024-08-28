@@ -39,6 +39,33 @@ def num_cat_analysis(dataframe, num_col, cat_col):
     )
     st.plotly_chart(fig)
 
+# Função para análise bivariada entre variável categórica e numérica usando um gráfico de barras
+def num_cat_analysis_bar(dataframe, num_col, cat_col):
+    # Calcular a média da variável numérica para cada categoria
+    mean_values = dataframe.groupby(cat_col)[num_col].mean().reset_index()
+
+    # Criar o gráfico de barras
+    fig = go.Figure(data=[
+        go.Bar(
+            x=mean_values[cat_col],  # Categorias no eixo x
+            y=mean_values[num_col],  # Médias no eixo y
+            marker_color='rgba(255, 100, 102, 0.7)',  # Cor das barras
+            text=mean_values[num_col],  # Exibir valores como texto nas barras
+            textposition='auto'  # Posição do texto
+        )
+    ])
+
+    # Atualizar layout do gráfico
+    fig.update_layout(
+        title=f"Análise Bivariada: {num_col} por {cat_col}",
+        xaxis_title=cat_col,
+        yaxis_title=f"Média de {num_col}",
+        yaxis=dict(tickformat=".2f")  # Formato dos ticks no eixo y
+    )
+
+    # Exibir o gráfico no Streamlit
+    st.plotly_chart(fig)
+
 # Função para análise bivariada entre variáveis categóricas
 def AB2C(dataframe, col1, col2, metric):
     if metric == 'qtd':
@@ -90,6 +117,7 @@ def main():
     with st.expander("### Análise bivariada entre uma variável categórica e outra numérica"):
         x_coluna = st.selectbox('Selecione a coluna do eixo X', df.select_dtypes('object').columns, key='x_col_2')
         y_coluna = st.selectbox('Selecione a coluna do eixo Y', df.select_dtypes('number').columns, key='y_col_2')
+        num_cat_analysis_bar(df, y_coluna, x_coluna)
         num_cat_analysis(df, y_coluna, x_coluna)
 
     with st.expander("### Análise bivariada de duas variáveis ​​categóricas"):
