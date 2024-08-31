@@ -139,7 +139,7 @@ Para uma visão inicial do arquivo CSV, é possível analisar as seguintes métr
 
 3. **Análise Bivariada**
 
-4. **Análise de Grupos**: Identificação de padrões e agrupamentos de clientes com base em suas características, aplicando técnicas de clusterização. (Encontrar variaveis que dividem os dados)
+4. **Análise de Grupos**: Identificação de padrões e agrupamentos de clientes com base em suas características, aplicando técnicas de clusterização. (Encontrar variaveis que dividem os dados - variaveis que quando mudam dividem e separam os dados gerando um padrão)
 
 5. **Análise dos Fatores:**
     - **Idade**: Avaliar a distribuição etária dos clientes, identificando faixas etárias com maior concentração, comportamento de compra e diferenças no uso de produtos e serviços.
