@@ -57,7 +57,7 @@ A implementação de um modelo preditivo para aprovação de crédito oferece di
 | idade_estado_civil                  |                                  |                                |                                |                            |
 | escolaridade_renda                  |                                  |                                |                                |                            |
 
-# Decrição:
+# Descrição:
 
 | **Coluna**                    | **Descrição**                                                                 |
 |-------------------------------|------------------------------------------------------------------------------|
