@@ -92,10 +92,12 @@ A implementação de um modelo preditivo para aprovação de crédito oferece di
 
 <img src="https://raw.githubusercontent.com/enzoschitini/Data-Science-Portfolio/main/02%20Algoritmos%2C%20modelos%20e%20m%C3%A9tricas/Credit%20Card%20Approval%20Prediction/image/An%C3%A1lise%20descritiva%20e%20Insights.png">
 
+###
 # Gráfico de dispersão do Default
 
-![alt text](image.png)
+<img src="https://raw.githubusercontent.com/enzoschitini/Data-Science-Portfolio/main/02%20Algoritmos%2C%20modelos%20e%20m%C3%A9tricas/Credit%20Card%20Approval%20Prediction/image/Gr%C3%A1fico%20de%20dispers%C3%A3o%20do%20Default.png">
 
+###
 # Análise de Dados para Modelo de Credit Score: Relação com Default
 
 
