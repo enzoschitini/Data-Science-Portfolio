@@ -24,9 +24,9 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/E-commerce%20Customer%20Data%20For%20Behavior%20Analysis)
 ##
 
-> ### Projeto EBAC
-> Vamos explorar dados de crédito e contém informações sobre clientes de uma instituição financeira. Queremos entender o porque um cliente deixa de honrar com suas dívidas baseado no comportamento.
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/EBAC)
+> ### Machine Learning • Credit Card Approval Prediction
+> Nesse projeto usei técnicas de machine learning para desenvolver um modelo capaz de prever a aprovação ou rejeição de solicitações de cartão de crédito. Analisamos dados históricos de clientes, incluindo informações demográficas e financeiras, para identificar padrões que influenciam a decisão de aprovação.Com o objetivo de fornecer às instituições financeiras uma ferramenta precisa para minimizar riscos de crédito e otimizar o processo de concessão, assegurando que apenas clientes qualificados sejam aprovados.
+> [ACESSE O PROJETO](https://www.kaggle.com/code/enzoschitini/credit-card-approval-prediction)
 ##
 
 > ### Aplicação Streamlit que gera gráficos de dados coletados do Yahoo Finance
