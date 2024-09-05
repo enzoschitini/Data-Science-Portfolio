@@ -15,7 +15,7 @@ A ciência sempre me fascinou pelo fato de podermos descobrir coisas novas. E fo
 ### `Para mim, todo Dataset esconde uma história e só temos que encontrá-la e saber contá-la`
 
 #### - **Os projetos tratam** 
-`Análises exploratórias` e `Análises descritivas`
+`Análises exploratórias`, `Análises descritivas` e `Análises diagnósticas`
 
 ##
 
