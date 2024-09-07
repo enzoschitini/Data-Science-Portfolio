@@ -16,7 +16,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 > ### Dados do SINASC de Rondônia em 2019 - Análise avançada 👑
 > Pesquisa sobre os dados do SINASC no estado de Rondônia (BR) no ano de 2019. O meu objetivo é realizar uma análise aprofundada do tema, encontrar padrões nos dados e conectar à realidade. Definitivamente um dos projetos em que mais me esforcei para obter bons resultados, espero que você, assim como eu, ache interessante.
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/Sinasc)
+> [ACESSE O PROJETO](https://www.kaggle.com/code/enzoschitini/sinasc-estado-de-rond-nia-em-2019)
 ##
 
 > ### E-Commerce Customer Data For Behavior Analysis - Análise avançada
