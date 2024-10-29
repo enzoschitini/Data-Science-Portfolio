@@ -151,13 +151,13 @@ Esses dados podem ser úteis para o planejamento de políticas públicas, podemo
 
 ### Média da quantidade total de filhos vivos Vs Raça do bebê:
 
-https://media.licdn.com/dms/image/v2/D5612AQGGt3K6Mjp3pQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721179695295?e=1735776000&v=beta&t=M_Q-FPndY6kFToJHNnxUaRsLBE33K0cYpOCJDWlHO3k
+![](https://media.licdn.com/dms/image/v2/D5612AQGGt3K6Mjp3pQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721179695295?e=1735776000&v=beta&t=M_Q-FPndY6kFToJHNnxUaRsLBE33K0cYpOCJDWlHO3k)
 
 Primeiramente, observamos que mães **indígenas** têm a maior média de filhos vivos, com aproximadamente **3 filhos**. Em contraste, mães **brancas** têm a menor média, chegando a cerca de **2 filhos**.
 
 ### Média da quantidade total de filhos mortos Vs Raça do bebê:
 
-https://media.licdn.com/dms/image/v2/D5612AQEoLQTHdLF9Vw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721194858829?e=1735776000&v=beta&t=Ab28hjWYzEM5RZFglgXT1mizwfBGcssFLqLBGU-0KnI
+![](https://media.licdn.com/dms/image/v2/D5612AQEoLQTHdLF9Vw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721194858829?e=1735776000&v=beta&t=Ab28hjWYzEM5RZFglgXT1mizwfBGcssFLqLBGU-0KnI)
 
 A média do número total de filhos mortos com base na raça dos bebês em Rondônia. Aqui estão algumas observações importantes:
 
@@ -167,7 +167,7 @@ A média do número total de filhos mortos com base na raça dos bebês em Rond�
 
 ### Média da quantidade total de filhos Vs Escolaridade da mãe:
 
-https://media.licdn.com/dms/image/v2/D5612AQHZvYU3aDxbyQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721189347202?e=1735776000&v=beta&t=gHaxCRaVxnCrhNysQxfKic5P3FiOajVDxoxosuuqRpo
+![](https://media.licdn.com/dms/image/v2/D5612AQHZvYU3aDxbyQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721189347202?e=1735776000&v=beta&t=gHaxCRaVxnCrhNysQxfKic5P3FiOajVDxoxosuuqRpo)
 
 1. **Tendência Decrescente:** O gráfico mostra uma tendência decrescente na média da quantidade total de filhos à medida que a escolaridade da mãe aumenta. Isso sugere que mães com maior nível educacional tendem a ter famílias menores.
 2. **Educação e Planejamento Familiar:** A correlação entre escolaridade e número de filhos pode estar relacionada ao planejamento familiar. Mães com maior educação podem ter acesso a informações sobre contracepção e planejamento familiar, o que pode influenciar suas decisões reprodutivas.
@@ -178,7 +178,7 @@ Em resumo, o gráfico destaca a importância da educação materna como um fator
 
 ### Média da quantidade total de filhos mortos Vs Escolaridade da mãe:
 
-https://media.licdn.com/dms/image/v2/D5612AQGoR3e86vm6WQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721180063186?e=1735776000&v=beta&t=ku_V7im7dI74tBszNOZZR6Eq3VKh-H88_qIde1cpNZc
+![](https://media.licdn.com/dms/image/v2/D5612AQGoR3e86vm6WQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721180063186?e=1735776000&v=beta&t=ku_V7im7dI74tBszNOZZR6Eq3VKh-H88_qIde1cpNZc)
 
 1. **Tendência Decrescente:** O gráfico mostra uma tendência decrescente na média da quantidade total de filhos mortos à medida que a escolaridade da mãe aumenta. Isso sugere que mães com maior nível educacional tendem a ter famílias com menor número de filhos que faleceram.
 2. **Educação e Mortalidade Infantil:** A correlação negativa entre escolaridade e mortalidade infantil pode ser crucial para entender os fatores de risco. Mães com maior educação podem ter acesso a informações sobre cuidados pré-natais, vacinação e prevenção de doenças, o que pode reduzir a mortalidade infantil.
@@ -191,7 +191,7 @@ https://media.licdn.com/dms/image/v2/D5612AQGoR3e86vm6WQ/article-inline_image-sh
 
 ### Com base na raça e cor de pele:
 
-https://media.licdn.com/dms/image/v2/D5612AQH786V1dowXcQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721198172927?e=1735776000&v=beta&t=olkRpSUNbbmhpszFhgFFP_BAxvcaR4pFruzQhIrYK3g
+![](https://media.licdn.com/dms/image/v2/D5612AQH786V1dowXcQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721198172927?e=1735776000&v=beta&t=olkRpSUNbbmhpszFhgFFP_BAxvcaR4pFruzQhIrYK3g)
 
 1. **Distribuição por Idade:** O gráfico mostra a distribuição de partos com base na idade das mães. A maioria das mulheres fica grávida entre 20 e 34 anos, independentemente da raça.
 2. **Raça e Idade das Mães:** As mulheres brancas lideram as gravidezes acima dos 35 anos, com 18% dos casos nessa idade. As mulheres pretas e pardas também têm índices significativos de gravidez após os 35 anos (15,9% e 13,9%, respectivamente).
@@ -200,7 +200,7 @@ https://media.licdn.com/dms/image/v2/D5612AQH786V1dowXcQ/article-inline_image-sh
 
 ### Comparando a idade da mãe e do pai:
 
-https://media.licdn.com/dms/image/v2/D5612AQHQoxh2dKHEWA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721181277336?e=1735776000&v=beta&t=349S_cNAzPQHpLKX7mGddPkcnd-81zJh03HHhURJH-0
+![](https://media.licdn.com/dms/image/v2/D5612AQHQoxh2dKHEWA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721181277336?e=1735776000&v=beta&t=349S_cNAzPQHpLKX7mGddPkcnd-81zJh03HHhURJH-0)
 
 Através do gráfico da pirâmide etária que compara a distribuição de pais e mães em diferentes faixas etárias, podemos obter vários insights:
 
@@ -215,7 +215,7 @@ Este gráfico oferece uma visão clara de quando as pessoas tendem a se tornar p
 
 ### Diferença média baseada na idade média da mãe:
 
-https://media.licdn.com/dms/image/v2/D5612AQGurIbE7kVYoA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721180099957?e=1735776000&v=beta&t=EZ9hHqk1sIOUZkFOyxGTg54DbeFpsTe1n7TejTMgJAM
+![](https://media.licdn.com/dms/image/v2/D5612AQGurIbE7kVYoA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721180099957?e=1735776000&v=beta&t=EZ9hHqk1sIOUZkFOyxGTg54DbeFpsTe1n7TejTMgJAM)
 
 1. **Variação com a Idade da Mãe:** O gráfico mostra uma relação interessante entre a idade média da mãe e a diferença média de idade entre ela e o marido. A diferença média de idade começa em torno de 6 anos quando a mãe tem 15 anos, aumenta ligeiramente à medida que a idade média da mãe aumenta para 20 anos e, em seguida, diminui constantemente até atingir o ponto mais baixo em torno dos 35 anos de idade média da mãe. Após esse ponto, há um aumento acentuado na diferença média de idade à medida que a idade média da mãe aumenta para 50 anos.
 2. **Tendências Demográficas:** Essa curva em forma de U sugere que pode haver diferenças maiores nas idades dos cônjuges quando as mães são muito jovens ou mais velhas. As razões para essas variações podem incluir fatores sociais, culturais, biológicos e preferências individuais.
