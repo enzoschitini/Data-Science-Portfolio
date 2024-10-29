@@ -5,6 +5,10 @@
 ---
 
 # **SINASC** • Sistema de Informação sobre Nascidos Vivos
+---
+## **Quase 12% dos partos registrados no estado de Rondônia em 2019 foram adolescentes grávidas com marido maior de idade!**
+
+*Diz algorítimo de Machine Learning • 03 Junho 2024*
 Uma pesquisa abrangente sobre tendências demográficas e de saúde em 2019 no estado de Rondônia, no Brasil. Comecemos por analisar os dados do sistema de informação sobre nascidos vivos (SINASC), o objetivo é realizar uma análise aprofundada do tema, este projeto visa encontrar ideias e responder a uma série de questões cruciais.
 
 **Data Science** Portfólio | *27 Abril 2024* - *03 junho 2024*
@@ -14,14 +18,6 @@ Uma pesquisa abrangente sobre tendências demográficas e de saúde em 2019 no e
 ### • [GitHub](https://github.com/enzoschitini/Data-Science-Portfolio/blob/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/Sinasc/Sinasc.ipynb)
 ### • [Kaggle - 🤰 Sinasc • Estado de Rondônia em 2019](https://www.kaggle.com/code/enzoschitini/sinasc-estado-de-rond-nia-em-2019#Projeto-de-An%C3%A1lise-e-Ci%C3%AAncia-de-Dados-com-Machine-Learning)
 ### • [Artigo no Linkedin](https://www.linkedin.com/pulse/sinasc-sistema-de-informa%2525C3%2525A7%2525C3%2525A3o-sobre-nascidos-vivos-enzo-schitini-vvvsc/?trackingId=tuJlf8rZRkOGZK96w9J2TA%3D%3D)
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/591dff13-5117-425d-a983-ca995144a283/3bf5afc9-9c9d-4d4b-bb13-5a31fa4f4aff/image.png)
-
-# **SINASC • Sistema de Informação sobre Nascidos Vivos**
-
-## **Quase 12% dos partos registrados no estado de Rondônia em 2019 foram adolescentes grávidas com marido maior de idade!**
-
-*Diz algorítimo de Machine Learning • 03 Junho 2024*
 
 ---
 
