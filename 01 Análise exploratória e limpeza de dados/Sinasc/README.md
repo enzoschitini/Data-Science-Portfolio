@@ -29,6 +29,8 @@ Link do projeto no Kaggle com os códigos: [🤰 Sinasc • Estado de Rondônia 
 
 ---
 
+![](https://media.licdn.com/dms/image/v2/D4D12AQH4GQbvIhIgWg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721194113117?e=1735776000&v=beta&t=wMGiFS3JWy09TtaegcOaM3fYm-CSOw2FqrOv-funOnQ)
+
 ### O que você vai encontrar nesta análise? 👋
 
 Vamos explorar os dados do *Sistema de Informação sobre Nascidos Vivos (SINASC)* relativos aos recém-nascidos nascidos no estado de Rondônia, Brasil, no ano de 2019. Assim que a análise exploratória for concluída, prosseguiremos para identificar insights e avaliar a saúde pública no estado.
@@ -58,7 +60,7 @@ Os dados utilizados neste projeto foram extraídos do portal do governo, mais pr
 
 O conjunto de dados pode ser encontrado no site do governo brasileiro e segue políticas de privacidade, o que significa que não há nomes de pessoas ou qualquer coisa que nos permita saber quem são os indivíduos.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/591dff13-5117-425d-a983-ca995144a283/8baffdca-38ad-4a15-b05f-21d40ba0d34f/image.png)
+![](https://media.licdn.com/dms/image/v2/D5612AQE76Xz3ennuWg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721183271678?e=1735776000&v=beta&t=32OR12vK97itnlRHz60ogvc_GfHg3Dh-SvHGZCgr00Q)
 
 ### Metodologia
 
@@ -72,7 +74,7 @@ Ao fornecer uma visão detalhada sobre os nascimentos, este projeto contribui pa
 
 ## 🔥 Vamos começar!!!
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/591dff13-5117-425d-a983-ca995144a283/1cc98863-8ff7-4a74-a2e6-611916771926/image.png)
+![](https://media.licdn.com/dms/image/v2/D5612AQGTWZtZzbXyHA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721195567492?e=1735776000&v=beta&t=9vLZBrov8c6Xs2WIlOg6pPPmMZFU5lhejHq_a9XbDto)
 
 ## Como a análise será realizada:
 
