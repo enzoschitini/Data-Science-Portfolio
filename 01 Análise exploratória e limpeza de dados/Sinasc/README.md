@@ -1,4 +1,4 @@
-### [ACESSE O PROJETO >>>](https://github.com/enzoschitini/Data-Science-Portfolio/blob/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/Sinasc/An%C3%A1lise%20Explorat%C3%B3ria.ipynb)
+### [ACESSE O PROJETO >>>](https://www.kaggle.com/code/enzoschitini/sinasc-estado-de-rond-nia-em-2019#Projeto-de-An%C3%A1lise-e-Ci%C3%AAncia-de-Dados-com-Machine-Learning)
 
 <img src="https://raw.githubusercontent.com/enzoschitini/Data-Science-Portfolio/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/Sinasc/image/Copetina.png" alt="capa">
 
