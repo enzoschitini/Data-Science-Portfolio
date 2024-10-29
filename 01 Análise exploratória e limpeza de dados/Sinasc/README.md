@@ -358,7 +358,7 @@ Em resumo, o gráfico mostra que os partos cesáreos são mais comuns em mães e
 
 ### Com base na raça e cor da pele do bebê
 
-https://media.licdn.com/dms/image/v2/D4D12AQHWzz0WY4DCKw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721190565160?e=1735776000&v=beta&t=fbMgar1tAarGtDMgBKDo-w4j0WuLkeOOtkivBPFUXqg
+![](https://media.licdn.com/dms/image/v2/D4D12AQHWzz0WY4DCKw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721190565160?e=1735776000&v=beta&t=fbMgar1tAarGtDMgBKDo-w4j0WuLkeOOtkivBPFUXqg)
 
 Pelo gráfico entendemos que a cesárea é escolhida pela maioria das raças exceto a indígena em que acontece o contrário, mais frequente o parto vaginal. Também podemos dizer que os bebês brancos e amarelos têm maior probabilidade de nascer de cesariana do que as outras raças.
 
@@ -371,7 +371,7 @@ APGAR:
 - **APGAR5 bom:** Uma pontuação APGAR5 considerada boa é de 7 a 10 no quinto minuto de vida. Isso indica que o bebê está em boas condições de saúde e se adaptando bem à vida fora do útero.
 - **APGAR1 bom:** Uma pontuação APGAR1 considerada boa é de 6 ou mais no primeiro minuto de vida. Essa pontuação inicial é crucial para identificar bebês que podem precisar de ressuscitação ou outros cuidados imediatos.
 
-https://media.licdn.com/dms/image/v2/D4D12AQFA6muClRtk5Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205527935?e=1735776000&v=beta&t=5q8umezvu7kc-7qPUQ2tMeQTVOh4rex9zlQqpkD5ffI
+![](https://media.licdn.com/dms/image/v2/D4D12AQFA6muClRtk5Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205527935?e=1735776000&v=beta&t=5q8umezvu7kc-7qPUQ2tMeQTVOh4rex9zlQqpkD5ffI)
 
 Detalhes adicionais:
 
@@ -393,15 +393,15 @@ APGAR1:
 
 ### APGAR1 & APGAR5 com base na raça do bebê
 
-https://media.licdn.com/dms/image/v2/D4D12AQGq299gnMXepw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721209276377?e=1735776000&v=beta&t=elnWr9HbbHMDghlY_ERMGfSvDk7NC5W-NTYCOlE3WiA
+![](https://media.licdn.com/dms/image/v2/D4D12AQGq299gnMXepw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721209276377?e=1735776000&v=beta&t=elnWr9HbbHMDghlY_ERMGfSvDk7NC5W-NTYCOlE3WiA)
 
 ### APGAR1 & APGAR5 com base na raça do bebê (Entres as menores de idade)
 
-https://media.licdn.com/dms/image/v2/D4D12AQHQ1MnhqCoUXA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204152271?e=1735776000&v=beta&t=9T13AilqvosRV1I50kXjzBd5VqAUli9QiFnZnIQfqgM
+![](https://media.licdn.com/dms/image/v2/D4D12AQHQ1MnhqCoUXA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204152271?e=1735776000&v=beta&t=9T13AilqvosRV1I50kXjzBd5VqAUli9QiFnZnIQfqgM)
 
 ### Média do peso por raça
 
-https://media.licdn.com/dms/image/v2/D4D12AQGRgSklWuWSpg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204851896?e=1735776000&v=beta&t=Bk_kLvcupJug8AwRKNfMYgTGMwr2u3Wo5ST_aHaSuko
+![](https://media.licdn.com/dms/image/v2/D4D12AQGRgSklWuWSpg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204851896?e=1735776000&v=beta&t=Bk_kLvcupJug8AwRKNfMYgTGMwr2u3Wo5ST_aHaSuko)
 
 **O gráfico intitulado “Média do peso por raça” apresenta a média de peso de bebês em relação a cinco categorias raciais: Indígena, Parda, Branca, Preta e Amarela. Vamos observar algumas informações importantes:**
 
@@ -414,15 +414,15 @@ https://media.licdn.com/dms/image/v2/D4D12AQGRgSklWuWSpg/article-inline_image-sh
 
 - APGAR1
 
-https://media.licdn.com/dms/image/v2/D4D12AQGzimR83WNNPg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204525229?e=1735776000&v=beta&t=BfsJS2mafA5VG-ajhLmkIyBzuN1WGiR7robTMkqWMgM
+![](https://media.licdn.com/dms/image/v2/D4D12AQGzimR83WNNPg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204525229?e=1735776000&v=beta&t=BfsJS2mafA5VG-ajhLmkIyBzuN1WGiR7robTMkqWMgM)
 
 - APGAR5
 
-https://media.licdn.com/dms/image/v2/D4D12AQGgYnDXsBuxUQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721202696437?e=1735776000&v=beta&t=0erlz6XoRjUWk48rTV3VFLair0YyvVZMPbLUHORnbCg
+![](https://media.licdn.com/dms/image/v2/D4D12AQGgYnDXsBuxUQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721202696437?e=1735776000&v=beta&t=0erlz6XoRjUWk48rTV3VFLair0YyvVZMPbLUHORnbCg)
 
 ### Média do peso por idade da mãe
 
-https://media.licdn.com/dms/image/v2/D4D12AQHkGJAinVsa7Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721201688820?e=1735776000&v=beta&t=_rfWqeAdpWYooHPbzYBE7TMIse7MU6Eo1niXyoww8Io
+![](https://media.licdn.com/dms/image/v2/D4D12AQHkGJAinVsa7Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721201688820?e=1735776000&v=beta&t=_rfWqeAdpWYooHPbzYBE7TMIse7MU6Eo1niXyoww8Io)
 
 Através deste gráfico, podemos descobrir melhor como o peso do bebê se comporta com base na idade que a mãe tem.
 
@@ -430,23 +430,23 @@ Também nos mostra que o peso aumenta com base na idade, até que para de oscila
 
 ### Média do peso pelo tempo de gestação
 
-https://media.licdn.com/dms/image/v2/D4D12AQGke-Txa1LXaQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721209288991?e=1735776000&v=beta&t=mEEtIAgH3yHOhkth1GFGH2rLU_zzSz7euHVZzbhl6PI
+![](https://media.licdn.com/dms/image/v2/D4D12AQGke-Txa1LXaQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721209288991?e=1735776000&v=beta&t=mEEtIAgH3yHOhkth1GFGH2rLU_zzSz7euHVZzbhl6PI)
 
 ### Tempo de gestação com base na raça e cor de pele
 
-https://media.licdn.com/dms/image/v2/D4D12AQFQFEhGTDSYqg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721208687930?e=1735776000&v=beta&t=B7xcXB3YQx0ks1ThB1pKWAJp4U9jDQ_w4J1yumnmPJk
+![](https://media.licdn.com/dms/image/v2/D4D12AQFQFEhGTDSYqg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721208687930?e=1735776000&v=beta&t=B7xcXB3YQx0ks1ThB1pKWAJp4U9jDQ_w4J1yumnmPJk)
 
 Um bebê é considerado **prematuro** quando nasce antes de completar **37 semanas** de gestação. A gestação normal dura cerca de 40 semanas, contadas a partir do primeiro dia do último período menstrual da mãe. Portanto, qualquer nascimento antes desse período é considerado prematuro.
 
-https://media.licdn.com/dms/image/v2/D4D12AQG9FcHvyXLV_Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204488919?e=1735776000&v=beta&t=uf1WDDdO7PQABfoqrhxvccy_jkGdblNZhs11AxfnQ5s
+![](https://media.licdn.com/dms/image/v2/D4D12AQG9FcHvyXLV_Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204488919?e=1735776000&v=beta&t=uf1WDDdO7PQABfoqrhxvccy_jkGdblNZhs11AxfnQ5s)
 
 Os bebês prematuros podem enfrentar desafios adicionais em seu desenvolvimento, uma vez que não tiveram o tempo completo no útero para amadurecer completamente. No entanto, os avanços na medicina neonatal permitem que muitos bebês prematuros tenham um bom prognóstico e cresçam saudáveis com os cuidados adequados.
 
 ### Com base na idade da mãe
 
-https://media.licdn.com/dms/image/v2/D4D12AQHLidI6mXZk5g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721208514773?e=1735776000&v=beta&t=_Y96mAPfIlsCCuZ-_Ih5wEpRyJ_UTYxGu9iIQx65PGA
+![](https://media.licdn.com/dms/image/v2/D4D12AQHLidI6mXZk5g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721208514773?e=1735776000&v=beta&t=_Y96mAPfIlsCCuZ-_Ih5wEpRyJ_UTYxGu9iIQx65PGA)
 
-https://media.licdn.com/dms/image/v2/D4D12AQF7lUS8haE4_Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204399541?e=1735776000&v=beta&t=pElQ9TcbJ-C8O2C_HKY_ywGs8jqJadsdUmB9ibefbFk
+![](https://media.licdn.com/dms/image/v2/D4D12AQF7lUS8haE4_Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204399541?e=1735776000&v=beta&t=pElQ9TcbJ-C8O2C_HKY_ywGs8jqJadsdUmB9ibefbFk)
 
 ---
 
