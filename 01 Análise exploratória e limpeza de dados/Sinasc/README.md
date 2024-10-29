@@ -86,7 +86,7 @@ Ao fornecer uma visão detalhada sobre os nascimentos, este projeto contribui pa
 
 ### Nascimentos no ano de 2019:
 
-https://media.licdn.com/dms/image/v2/D5612AQEACiw9c_fGEw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721178996817?e=1735776000&v=beta&t=VINzROK-UnpHQz-y9qwmnIh5qViBVjT2GcynUUAXih8
+![](https://media.licdn.com/dms/image/v2/D5612AQEACiw9c_fGEw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721178996817?e=1735776000&v=beta&t=VINzROK-UnpHQz-y9qwmnIh5qViBVjT2GcynUUAXih8)
 
 O gráfico mostra a quantidade de nascimentos ao longo do ano de 2019 em Rondônia. O gráfico apresenta flutuações ao longo do ano, com vários picos e vales. Isso sugere que a quantidade de nascimentos variou mês a mês. Os meses com os maiores picos podem indicar períodos de maior atividade de nascimentos, enquanto os vales podem representar momentos de menor atividade.
 
@@ -97,13 +97,13 @@ O gráfico mostra a quantidade de nascimentos ao longo do ano de 2019 em Rondôn
 
 ### Nascimentos por sexo do bebê:
 
-https://media.licdn.com/dms/image/v2/D5612AQFoVLVaFlSZpQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721194112669?e=1735776000&v=beta&t=jcRi9eKZX1OPqC_VRxENsYW0QjTSoTPsU9c3-kVWNRQ
+![](https://media.licdn.com/dms/image/v2/D5612AQFoVLVaFlSZpQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721194112669?e=1735776000&v=beta&t=jcRi9eKZX1OPqC_VRxENsYW0QjTSoTPsU9c3-kVWNRQ)
 
 - **Comparação:** Comparando as duas linhas, podemos ver que, em geral, a quantidade de nascimentos de meninas parece ser ligeiramente maior do que a de meninos. Essa diferença pode ser explorada em análises mais detalhadas.
 
 ### Codições sociorraciais dos bebês:
 
-https://media.licdn.com/dms/image/v2/D4D12AQESVFEcyXtZhA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205453013?e=1735776000&v=beta&t=wM2QejL-7iM-ZpusetOoIfOARhVGDPJqq0hwKH1Ax_w
+![](https://media.licdn.com/dms/image/v2/D4D12AQESVFEcyXtZhA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205453013?e=1735776000&v=beta&t=wM2QejL-7iM-ZpusetOoIfOARhVGDPJqq0hwKH1Ax_w)
 
 A população é um aspecto fundamental para entender a dinâmica de uma região. Com base no gráfico, podemos observar a composição racial dos bebês nascidos em Rondônia no ano de 2019.
 
@@ -116,7 +116,7 @@ Essa distribuição racial pode fornecer insights importantes para políticas p�
 
 ### Distribuição da escolaridade da mãe de acordo com o tom de pele do bebê:
 
-https://media.licdn.com/dms/image/v2/D5612AQGmUBAx3l9JaQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721179913605?e=1735776000&v=beta&t=x_euBmMa7x1an_SKTg-MnsEdO2UG1ZqiuJfvIFkIk1s
+![](https://media.licdn.com/dms/image/v2/D5612AQGmUBAx3l9JaQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721179913605?e=1735776000&v=beta&t=x_euBmMa7x1an_SKTg-MnsEdO2UG1ZqiuJfvIFkIk1s)
 
 O gráfico mostra a distribuição da escolaridade das mães de acordo com o tom de pele dos bebês nascidos no estado.
 
@@ -126,7 +126,7 @@ Esses dados são relevantes para entender as desigualdades educacionais e suas i
 
 ### Sexo do bebê:
 
-https://media.licdn.com/dms/image/v2/D5612AQEwlWHndKHVrg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721179021533?e=1735776000&v=beta&t=R-MIrewEPiTWukzq2Xhkv9q0gUK_A1wp-3GeINMfTz8
+![](https://media.licdn.com/dms/image/v2/D5612AQEwlWHndKHVrg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721179021533?e=1735776000&v=beta&t=R-MIrewEPiTWukzq2Xhkv9q0gUK_A1wp-3GeINMfTz8)
 
 A distribuição do sexo dos bebês em relação à escolaridade das mães é um aspecto interessante para análise:
 
@@ -137,7 +137,7 @@ Em resumo, com base nos dados apresentados, não parece haver uma correlação f
 
 ### Quantidade total de filhos:
 
-https://media.licdn.com/dms/image/v2/D5612AQGw7pC-0J7eVQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721179037276?e=1735776000&v=beta&t=XPadSBElb3C1U2fU6GOCKDJm3XMMPO6SlZLTJq61hmk
+![](https://media.licdn.com/dms/image/v2/D5612AQGw7pC-0J7eVQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721179037276?e=1735776000&v=beta&t=XPadSBElb3C1U2fU6GOCKDJm3XMMPO6SlZLTJq61hmk)
 
 Com base no gráfico, podemos observar a distribuição da quantidade de filhos na população de Rondônia, em 2019. Podemos destacar como principais insights:
 
