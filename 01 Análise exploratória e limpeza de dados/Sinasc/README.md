@@ -80,7 +80,7 @@ Ao fornecer uma visão detalhada sobre os nascimentos, este projeto contribui pa
 
 ## Como a análise será realizada:
 
-https://media.licdn.com/dms/image/v2/D5612AQEyNedMIW7yaQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1721179457444?e=1735776000&v=beta&t=lX72CYo5yDTjJmgFN5Nj7aH7UcsKH9y-gIK87v4TLkE
+![](https://media.licdn.com/dms/image/v2/D5612AQEyNedMIW7yaQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1721179457444?e=1735776000&v=beta&t=lX72CYo5yDTjJmgFN5Nj7aH7UcsKH9y-gIK87v4TLkE)
 
 ## O rosto da sociedade
 
