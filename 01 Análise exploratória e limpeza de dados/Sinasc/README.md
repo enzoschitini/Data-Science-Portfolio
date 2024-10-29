@@ -225,7 +225,7 @@ Em resumo, o gráfico nos ajuda a entender como a diferença de idade entre côn
 
 ### Escolaridade da mãe Vs diferença de idade entre ela e o marido:
 
-https://media.licdn.com/dms/image/v2/D5612AQG2RZZG3kEK2A/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721199140423?e=1735776000&v=beta&t=rLxk44OwxS3BGALXpaGh48wPsFCiz2d2_fe3pxvybog
+![](https://media.licdn.com/dms/image/v2/D5612AQG2RZZG3kEK2A/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721199140423?e=1735776000&v=beta&t=rLxk44OwxS3BGALXpaGh48wPsFCiz2d2_fe3pxvybog)
 
 1. **Tendência Decrescente:** O gráfico mostra uma tendência decrescente na diferença média de idade entre a mãe e o marido à medida que a escolaridade da mãe aumenta. Isso sugere que, em média, casais com mães mais educadas tendem a ter uma diferença menor de idade entre eles.
 2. **Educação e Relacionamentos:** A correlação negativa entre escolaridade da mãe e diferença de idade pode estar relacionada a fatores como valores, interesses e estilo de vida. Casais com níveis educacionais semelhantes podem compartilhar mais experiências e ter objetivos de vida mais alinhados.
@@ -244,30 +244,30 @@ Treinaremos um algoritmo de aprendizado de máquina com os 29% dos dados que ain
 
 ### Primeiro, tentamos encontrar algumas métricas com os dados que temos (os 29%):
 
-https://media.licdn.com/dms/image/v2/D4D12AQE7U9FlfjoK8g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721209095060?e=1735776000&v=beta&t=MD1MX0ZASZnyE6B8J_g-SUvf1cEHr0BTdzDtf7vVNiI
+![](https://media.licdn.com/dms/image/v2/D4D12AQE7U9FlfjoK8g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721209095060?e=1735776000&v=beta&t=MD1MX0ZASZnyE6B8J_g-SUvf1cEHr0BTdzDtf7vVNiI)
 
 ### Idade média da mãe e do pai & Média da diferença
 
 Média idade mãe: 26.93, Média idade pai: 31.03, Média da diferença: 5.5
 
-https://media.licdn.com/dms/image/v2/D4D12AQH5V-AZdAnOZA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721203182597?e=1735776000&v=beta&t=_u1Jv4j2jhs8AHkgdMGRaBSLDVZn8_B6q7gzCoDtE70
+![](https://media.licdn.com/dms/image/v2/D4D12AQH5V-AZdAnOZA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721203182597?e=1735776000&v=beta&t=_u1Jv4j2jhs8AHkgdMGRaBSLDVZn8_B6q7gzCoDtE70)
 
 ### Idade média da mãe e do pai & Média da diferença (Entre as mães menores de idade
 
 Média idade mãe: 16.9, Média idade pai: 23.96, Média da diferença: 7.06
 
-https://media.licdn.com/dms/image/v2/D4D12AQG1fUFd9E3Hhg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205823198?e=1735776000&v=beta&t=Q9w5GaYxXsKgjG6M7_vAzxbJgFBv0YAF-FRm6A5gEyg
+![](https://media.licdn.com/dms/image/v2/D4D12AQG1fUFd9E3Hhg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205823198?e=1735776000&v=beta&t=Q9w5GaYxXsKgjG6M7_vAzxbJgFBv0YAF-FRm6A5gEyg)
 
 ### Mães antes dos 18 - Quantidade de Registros e Diferença média de idade entre a mãe e o pai
 
-https://media.licdn.com/dms/image/v2/D4D12AQEP2XKJOO9P2w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721206088544?e=1735776000&v=beta&t=J8NZidCpGgqKGBhBVv3inDCJJGmbuslvaFBqwTw7IH0
+![](https://media.licdn.com/dms/image/v2/D4D12AQEP2XKJOO9P2w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721206088544?e=1735776000&v=beta&t=J8NZidCpGgqKGBhBVv3inDCJJGmbuslvaFBqwTw7IH0)
 
 1. **Quantidade de Registros:** A maioria das mães que tiveram filhos antes dos 18 anos está na faixa etária de 15 a 17 anos. O número de registros diminui à medida que a idade da mãe diminui (13 e 14 anos) e aumenta à medida que a idade da mãe aumenta (16 e 17 anos).
 2. **Diferença Média de Idade entre a Mãe e o Pai:** A diferença média de idade entre a mãe e o pai varia com base na idade da mãe. Que diminue à medida que a idade da mãe aumenta.
 
 ### Comparação da idade do pai maior de idade e com mãe menor de idade
 
-https://media.licdn.com/dms/image/v2/D4D12AQGlXsH4zLxz5g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205254834?e=1735776000&v=beta&t=TqdXtg6a3aSYkm3Kn96xC9D-_zJFVdhabepUNfhzrOA
+![](https://media.licdn.com/dms/image/v2/D4D12AQGlXsH4zLxz5g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205254834?e=1735776000&v=beta&t=TqdXtg6a3aSYkm3Kn96xC9D-_zJFVdhabepUNfhzrOA)
 
 ### Com base no gráfico, podemos observar a distribuição das idades dos pais
 
@@ -281,7 +281,7 @@ Em resumo, os gráficos nos ajuda a entender como a gravidez na adolescência se
 
 ### Diferença média de idade entre mãe e pai por raça
 
-https://media.licdn.com/dms/image/v2/D4D12AQFL1e9JrGdfHw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721208431911?e=1735776000&v=beta&t=sSjDnNvflDmU56eiEQT73yc6WtVXpUkDresiyqB1UAo
+![](https://media.licdn.com/dms/image/v2/D4D12AQFL1e9JrGdfHw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721208431911?e=1735776000&v=beta&t=sSjDnNvflDmU56eiEQT73yc6WtVXpUkDresiyqB1UAo)
 
 Com base no gráfico, podemos observar a distribuição das idades dos pais por raça
 
@@ -291,7 +291,7 @@ Com base no gráfico, podemos observar a distribuição das idades dos pais por 
 
 ### Diferença média de idade entre mãe e pai por raça, entre as que tiveram bebê antes dos 18 anos
 
-https://media.licdn.com/dms/image/v2/D4D12AQEBmPm1-bItxw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205304193?e=1735776000&v=beta&t=Q2RCuOh9NM2eCH8SEMoQTFdv2GIMh4Q2rD2kQ2WA1Qo
+![](https://media.licdn.com/dms/image/v2/D4D12AQEBmPm1-bItxw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205304193?e=1735776000&v=beta&t=Q2RCuOh9NM2eCH8SEMoQTFdv2GIMh4Q2rD2kQ2WA1Qo)
 
 Com base no gráfico, podemos observar a distribuição das idades dos pais por raça. Aqui estão os insights:
 
@@ -307,7 +307,7 @@ Através de um algoritmo de aprendizado de máquina, treinado com os 29% dos dad
 
 Machine Learning
 
-https://media.licdn.com/dms/image/v2/D5612AQFu39GtDpHtVA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721195205034?e=1735776000&v=beta&t=IhXklLmWyI9pb8tGhzmKianRBbPCUY00BlX39rc1i5Y
+![](https://media.licdn.com/dms/image/v2/D5612AQFu39GtDpHtVA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721195205034?e=1735776000&v=beta&t=IhXklLmWyI9pb8tGhzmKianRBbPCUY00BlX39rc1i5Y)
 
 ### Quase 12% dos partos registrados no estado de Rondônia em 2019 foram adolescentes grávidas com marido maior de idade!
 
@@ -326,13 +326,13 @@ Adolescentes grávidas com homens mais velhos é um problema complexo que envolv
 
 Distribuição dos tipos de parto ao longo do ano de 2019
 
-https://media.licdn.com/dms/image/v2/D5612AQH-ezdWgwZElQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721195409289?e=1735776000&v=beta&t=XFebCwrZ77KgEEeBczNmMO68I_U8CSZNOywplnxtTOE
+![](https://media.licdn.com/dms/image/v2/D5612AQH-ezdWgwZElQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721195409289?e=1735776000&v=beta&t=XFebCwrZ77KgEEeBczNmMO68I_U8CSZNOywplnxtTOE)
 
 *Dos partos de 2019 **67.73% foram Cesáreo** e **32.27% foram Vaginal***
 
 ### Escolaridade da Mãe
 
-https://media.licdn.com/dms/image/v2/D4D12AQFw7_KSolK8lA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721206942562?e=1735776000&v=beta&t=yvdizK0sFP-i4eBeLdNJFNU7FpVAin0neqKb33HqO2w
+![](https://media.licdn.com/dms/image/v2/D4D12AQFw7_KSolK8lA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721206942562?e=1735776000&v=beta&t=yvdizK0sFP-i4eBeLdNJFNU7FpVAin0neqKb33HqO2w)
 
 Mães com nenhuma ou baixa escolaridade têm uma proporção significativamente maior de partos vaginais. À medida que a escolaridade aumenta (8 a 11 anos e 12 anos ou mais), a proporção de partos cesáreos aumenta também gradualmente.
 
@@ -340,7 +340,7 @@ Isso sugere que a educação materna pode influenciar as decisões sobre o tipo 
 
 ### Com base na idade da mãe
 
-https://media.licdn.com/dms/image/v2/D4D12AQFCZA6CQS2OKg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721208743110?e=1735776000&v=beta&t=B35p64Y04KMwygLgH26Pi8YNNoq03lnTbMJEtDMrEUc
+![](https://media.licdn.com/dms/image/v2/D4D12AQFCZA6CQS2OKg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721208743110?e=1735776000&v=beta&t=B35p64Y04KMwygLgH26Pi8YNNoq03lnTbMJEtDMrEUc)
 
 ### Relação entre a idade da mãe e o tipo de parto (Cesáreo ou Vaginal). Aqui estão as principais observações:
 
