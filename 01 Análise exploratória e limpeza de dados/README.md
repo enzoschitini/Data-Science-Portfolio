@@ -5,7 +5,7 @@ Acredito que mesmo nesta fase já podemos encontrar alguns Insights.
 
 #### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist & Data Analyst • SQL • Expert Bubble.io • UX & UI @ Scituffy creator
 
-## 📁 Projetos criados:
+## 📁 Projetos de EDA:
 
 > ### Dados do Sistema de Informação sobre Nascidos Vivos (SINASC) de Rondônia em 2019
 > Pesquisa sobre os dados do SINASC no estado de Rondônia (BR) no ano de 2019. O meu objetivo é realizar uma análise aprofundada do tema, encontrar padrões nos dados e conectar à realidade. Definitivamente um dos projetos em que mais me esforcei para obter bons resultados, espero que você, assim como eu, ache interessante.
