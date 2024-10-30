@@ -24,6 +24,8 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 <img src="https://raw.githubusercontent.com/enzoschitini/enzoschitini/refs/heads/main/img/Copertina.png" alt="capa">
 
+## [📌 Link Portfólio • Todos meus projetos em dados](https://github.com/enzoschitini/Data-Science-Portfolio)
+
 ### **Minha relação com os dados:**
 
 > ### "Sempre fui fascinado pela ciência e pela possibilidade de fazer descobertas. Essa curiosidade me levou a me tornar Data Scientist, com o propósito de resolver problemas reais e explorar o desconhecido."
