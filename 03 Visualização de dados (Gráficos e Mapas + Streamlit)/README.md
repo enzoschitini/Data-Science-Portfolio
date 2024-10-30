@@ -3,7 +3,7 @@
 
 #### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist & Data Analyst • SQL • Expert Bubble.io • UX & UI @ Scituffy creator
 
-## 📁 Projetos de v isualização de dados:
+## 📁 Projetos de visualização de dados:
 
 > ### Aplicação Streamlit que gera gráficos de dados coletados do Yahoo Finance
 > Este projeto envolve o desenvolvimento de uma aplicação interativa usando Streamlit, que permite aos usuários visualizar dados financeiros coletados do Yahoo Finance. A aplicação oferece uma interface amigável para consultar, analisar e visualizar informações sobre diferentes ativos financeiros, tais como ações, índices e moedas. Com funcionalidades como seleção de período, tipos de gráficos e indicadores financeiros, a aplicação visa facilitar a compreensão das tendências de mercado e a tomada de decisões informadas. Dados de empresas como Petrobras, Coca-Cola, Amazon, Tesla, Itaú e Emirates.
