@@ -63,5 +63,5 @@ Além disso, incluo projetos que refletem minha trajetória, incluindo alguns do
 </p>
 
 <p align="center">
-  Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
+  Data Scientist & Data Analyst • SQL • Expert Bubble.io • UX & UI @ Scituffy creator
 </p>
