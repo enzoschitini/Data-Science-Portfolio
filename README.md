@@ -25,9 +25,11 @@ Além disso, incluo projetos que refletem minha trajetória, incluindo alguns do
 > [ACESSE O PROJETO](https://www.kaggle.com/code/enzoschitini/sinasc-estado-de-rond-nia-em-2019)
 ##
 
-> ### E-Commerce Customer Data For Behavior Analysis
-> Fiz uma análise das vendas de um E-Commerce para entender melhor como são seus clientes. O conjunto de dados contém informações sobre 100.000 pedidos de 2016 a 2018 feitos em vários mercados no Brasil. Seus recursos permitem visualizar um pedido em múltiplas dimensões: desde status do pedido, preço, desempenho de pagamento e transporte, localização do cliente, atributos do produto e, finalmente, avaliações escritas pelos clientes.
-> [ACESSE O PROJETO](https://www.kaggle.com/code/enzoschitini/brazilian-e-commerce-analysis-olist)
+> ### Olist Insights • Análise de Dados do E-commerce
+> Identificando Oportunidades de Crescimento e Melhoria Através da Exploração de Dados de Vendas. O projeto Olist Insights foi desenvolvido para explorar de forma abrangente os dados disponibilizados pelo Olist, utilizando técnicas de análise e visualização de dados para transformar informações brutas em insights estratégicos. O dashboard é estruturado para responder perguntas-chave sobre vendas, logística, produtos, comportamento do cliente e avaliações, permitindo uma compreensão detalhada do funcionamento de uma operação de e-commerce.Com base em colunas que abrangem desde características de pedidos até dados geográficos e de avaliação, o objetivo é fornecer ferramentas que auxiliem na tomada de decisões mais assertivas. 
+> [DASHBOARD](https://olist-insights.streamlit.app/)
+> 
+[GitHub Repository]()
 ##
 
 > ### Machine Learning • Credit Card Approval Prediction
