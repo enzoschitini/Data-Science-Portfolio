@@ -37,6 +37,11 @@ Além disso, incluo projetos que refletem minha trajetória, incluindo alguns do
 > [ACESSE O PROJETO](https://www.kaggle.com/code/enzoschitini/credit-card-approval-prediction)
 ##
 
+> ### Ensemble Techniques • Repository
+> Este repositório explora técnicas de ensemble em Machine Learning, como Bagging, Boosting, Adaboost, Gradient Boosting Machine - GBM, Random Forest e XGBoost com explicações teóricas e exemplos práticos. Ideal para quem deseja aprofundar seus conhecimentos e melhorar o desempenho de modelos preditivos.
+> [ACESSE O PROJETO](https://github.com/enzoschitini/machine-learning/tree/Ensemble-Techniques)
+##
+
 > ### Aplicação Streamlit que gera gráficos de dados coletados do Yahoo Finance
 > Este projeto envolve o desenvolvimento de uma aplicação interativa usando Streamlit, que permite aos usuários visualizar dados financeiros coletados do Yahoo Finance. A aplicação oferece uma interface amigável para consultar, analisar e visualizar informações sobre diferentes ativos financeiros, tais como ações, índices e moedas. Com funcionalidades como seleção de período, tipos de gráficos e indicadores financeiros, a aplicação visa facilitar a compreensão das tendências de mercado e a tomada de decisões informadas. Dados de empresas como Petrobras, Coca-Cola, Amazon, Tesla, Itaú e Emirates.
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/blob/main/03%20Visualiza%C3%A7%C3%A3o%20de%20dados%20(Gr%C3%A1ficos%20e%20Mapas%20+%20Streamlit)/Financial%20shares%20of%20large%20companies/README.md)
