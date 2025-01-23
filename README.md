@@ -22,13 +22,13 @@ Além disso, incluo projetos que refletem minha trajetória, incluindo alguns do
 
 ## 📁 Projetos criados:
 
-### Marketing Campaign Optimization (K-Means)
+## Marketing Campaign Optimization (K-Means)
 > Este projeto utiliza o algoritmo de clusterização K-Means para segmentar clientes de um e-commerce com base em dados demográficos, comportamentais e de consumo, gerando insights acionáveis para campanhas de marketing personalizadas. A análise revelou quatro grupos distintos de clientes, permitindo identificar os mais lucrativos e estratégias para redirecionar recursos, aumentando potencialmente o faturamento em quase 12% (mais de $150 mil). 
 > Com uma abordagem data-driven, o projeto destacou a importância da personalização para otimizar o ROI, melhorar a experiência do cliente e identificar novas oportunidades de crescimento.
 
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Marketing-Campaign-Optimization)
 
-### Dados do Sistema de Informação sobre Nascidos Vivos (SINASC) de Rondônia em 2019
+## Dados do Sistema de Informação sobre Nascidos Vivos (SINASC) de Rondônia em 2019
 > A análise dos dados do SINASC em Rondônia em 2019 revela um retrato fascinante e por vezes preocupante da realidade local. Destaca-se que 12% dos partos foram de adolescentes grávidas casadas com homens mais velhos, acendendo alertas sobre desigualdades de poder e vulnerabilidades sociais. Além disso, os dados evidenciam que mães negras possuem uma média mais alta de filhos mortos, enquanto mães indígenas têm, em média, mais filhos vivos. Outro ponto intrigante é a predominância de partos cesáreos na maioria dos grupos, com exceção das mães indígenas, que optam mais pelo parto vaginal. A pesquisa também explorou como escolaridade, idade e raça influenciam fatores como saúde materno-infantil e escolha do tipo de parto. Esses insights revelam a urgência de políticas públicas direcionadas para combater desigualdades e promover a saúde na região.
 
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Sinasc)
@@ -42,13 +42,13 @@ Além disso, incluo projetos que refletem minha trajetória, incluindo alguns do
 > [GitHub Repository](https://github.com/enzoschitini/Olist) | [DASHBOARD](https://olist-insights.streamlit.app/)
 ##
 
-### Credit Card Approval Prediction
+## Credit Card Approval Prediction
 > Nesse projeto usei técnicas de machine learning para desenvolver um modelo capaz de prever a aprovação ou rejeição de solicitações de cartão de crédito. Analisamos dados históricos de clientes, incluindo informações demográficas e financeiras, para identificar padrões que influenciam a decisão de aprovação. Projeto muito comum em instituições financeiras com o objetivo de minimizar riscos de crédito e otimizar o processo de concessão, assegurando que apenas clientes qualificados sejam aprovados.
 
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Credit-Card-Approval-Prediction)
 ##
 
-### Aplicação Streamlit que gera gráficos de dados coletados do Yahoo Finance
+## Aplicação Streamlit que gera gráficos de dados coletados do Yahoo Finance
 > Este projeto envolve o desenvolvimento de uma aplicação interativa usando Streamlit, que permite aos usuários visualizar dados financeiros coletados do Yahoo Finance. A aplicação oferece uma interface amigável para consultar, analisar e visualizar informações sobre diferentes ativos financeiros, tais como ações, índices e moedas. Com funcionalidades como seleção de período, tipos de gráficos e indicadores financeiros, a aplicação visa facilitar a compreensão das tendências de mercado e a tomada de decisões informadas. Dados de empresas como Petrobras, Coca-Cola, Amazon, Tesla, Itaú e Emirates.
 
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Financial-shares-of-large-companies)
