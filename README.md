@@ -147,7 +147,6 @@ Nos próximos passos, apresentarei os detalhes da análise e como ela pode ser u
 ![img](img/slide/Frame.png)
 
 # **Contexto dos dados**
-Parlare dell’azienda: Periodo dell’analisi, quantità di clienti, guadagno totale
 
 O conjunto de dados analisado reflete as interações e características dos clientes de uma loja que opera tanto em um ambiente físico quanto digital, incluindo website e catálogo. Ele captura informações detalhadas, como idade, renda, composição familiar, histórico de compras e participação em campanhas, fornecendo uma visão ampla do comportamento do consumidor. Esse contexto é particularmente relevante para uma loja que busca entender melhor seus clientes e otimizar estratégias de marketing, segmentando campanhas e priorizando ações que aumentem a retenção e o retorno sobre o investimento.
 
@@ -529,7 +528,7 @@ Imagine poder alavancar o faturamento do e-commerce em quase 12%, simplesmente a
 
 O Cluster 2 representa um perfil de clientes que, historicamente, apresenta baixo retorno financeiro para o e-commerce. Ao direcionarmos as campanhas para os demais clusters e eliminarmos esse grupo, o potencial de aumento no faturamento é significativo. Veja os detalhes:
 
-![image](https://raw.githubusercontent.com/enzoschitini/Backup-Folder/refs/heads/MarketingCampaignOptimization/img/slide/0_1_3.png)
+![image](img/slide/0_1_3.png)
 
 - ### **Faturamento Total Real:** \$1,335,799.00
 - ### **Faturamento Simulado (sem Cluster 2):** \$1,494,076.79
@@ -545,7 +544,7 @@ Essa estratégia oferece um balanço ideal entre simplicidade e retorno, permiti
 
 Outra abordagem seria concentrar os esforços nos clientes com maior potencial de retorno, representados pelos Clusters 0 e 1. Apesar do impacto positivo ser ainda maior, essa estratégia exige um investimento mais seletivo e pode excluir grupos relevantes:
 
-![image](https://raw.githubusercontent.com/enzoschitini/Backup-Folder/refs/heads/MarketingCampaignOptimization/img/slide/0_1.png)
+![image](img/slide/0_1.png)
 
 - ### **Faturamento Total Real:** \$1,335,799.00
 - ### **Faturamento Simulado (apenas Clusters 0 e 1):** \$1,731,484.91
@@ -561,7 +560,7 @@ Embora essa alternativa sugira um aumento de quase 30% no faturamento, é import
 
 É essencial considerar também os riscos de perder clientes estratégicos. Abaixo, destacamos os impactos potenciais:
 
-![image](https://raw.githubusercontent.com/enzoschitini/Backup-Folder/refs/heads/MarketingCampaignOptimization/img/slide/2_3.png)
+![image](img/slide/2_3.png)
 
 - ### **Perda do Cluster 0:** Queda de \$20,919.24 (-1.57%)
 - ### **Perda do Cluster 1:** Queda de \$95,624.68 (-7.16%)
