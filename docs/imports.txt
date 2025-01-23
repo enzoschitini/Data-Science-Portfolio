@@ -1,0 +1,43 @@
+# Importação de bibliotecas essenciais
+import pandas as pd  # Manipulação de dados em DataFrames
+import numpy as np  # Operações matemáticas e manipulação de arrays
+
+# Bibliotecas de visualização de dados
+import seaborn as sns  # Visualizações estatísticas
+import matplotlib.pyplot as plt  # Visualizações estáticas
+import plotly.express as px  # Visualizações interativas e simplificadas
+import plotly.graph_objects as go  # Visualizações interativas avançadas
+import plotly.subplots as sp  # Criação de subplots interativos
+
+# Pré-processamento
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
+
+# Clustering e métricas de distância
+from sklearn.cluster import KMeans
+from scipy.spatial import distance
+
+# Avaliação do modelo
+from sklearn.metrics import silhouette_score
+from yellowbrick.cluster import KElbowVisualizer  # Método do cotovelo para KMeans
+
+# Redução de dimensionalidade e pipelines
+from sklearn.decomposition import PCA
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
+
+# Pesquisa de hiperparâmetros
+from sklearn.model_selection import GridSearchCV
+
+# Estatísticas
+from scipy.stats import chi2_contingency  # Teste de independência Qui-quadrado
+
+# Configuração para exibir todas as colunas
+pd.set_option('display.max_columns', None)
+
+# Configuração de localização para formatar números no padrão brasileiro
+import locale
+locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')  # Configura a localização para o Brasil
+format = lambda num: locale.format_string("%d", num, grouping=True)  # Formata números com separador de milhar
+
+# Importação de funções matemáticas específicas
+from math import pi  # Utilizado para cálculos envolvendo o número pi
