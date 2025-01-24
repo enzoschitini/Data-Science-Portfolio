@@ -35,12 +35,11 @@ A partir desses perfis, serão criados segmentos distintos, cada um com caracter
 ### Links das fases da análise:
 Se você quiser ver a análise completa você pode encontrar as informações nestes links, obviamente você pode continuar lendo este material para ver apenas os resultados da análise
 
-- [1. Exploratory Data Analysis (EDA)](https://github.com/enzoschitini/Backup-Folder/blob/CustomerPersonalityAnalysis/1.%20Exploratory%20Data%20Analysis%20(EDA).ipynb)
-- [2. Descriptive analysis](https://github.com/enzoschitini/Backup-Folder/blob/CustomerPersonalityAnalysis/2.%20Descriptive%20analysis.ipynb)
-- [3. K-Means Clustering Algorithm](https://github.com/enzoschitini/Backup-Folder/blob/CustomerPersonalityAnalysis/3.%20K-Means%20Clustering%20Algorithm.ipynb)
+- [1. Exploratory Data Analysis (EDA)](https://github.com/enzoschitini/Data-Science-Portfolio/blob/Marketing-Campaign-Optimization/1.%20Exploratory%20Data%20Analysis%20(EDA).ipynb)
+- [2. Descriptive analysis](https://github.com/enzoschitini/Data-Science-Portfolio/blob/Marketing-Campaign-Optimization/2.%20Descriptive%20analysis.ipynb)
+- [3. K-Means Clustering Algorithm](https://github.com/enzoschitini/Data-Science-Portfolio/blob/Marketing-Campaign-Optimization/3.%20K-Means%20Clustering%20Algorithm.ipynb)
 - [4. Cluster Analysis Insights](https://github.com/enzoschitini/Backup-Folder/blob/CustomerPersonalityAnalysis/4.%20Cluster%20Analysis%20Insights.ipynb)
-- [5. Marketing campaign optimization](https://github.com/enzoschitini/Backup-Folder/blob/CustomerPersonalityAnalysis/5.%20Marketing%20campaign%20optimization.ipynb)
-- [6. Informazioni e accesso al Dataset]()
+- [5. Marketing campaign optimization](https://github.com/enzoschitini/Data-Science-Portfolio/blob/Marketing-Campaign-Optimization/5.%20Marketing%20campaign%20optimization.ipynb)
 
 ### Importância do Projeto:
 
