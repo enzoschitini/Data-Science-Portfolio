@@ -65,10 +65,8 @@ Além disso, incluo projetos que refletem minha trajetória, incluindo alguns do
 
 
 ### 1. [Ensemble Techniques](https://github.com/enzoschitini/machine-learning/tree/Ensemble-Techniques)
-Um artigo que explora técnicas de ensemble em Machine Learning, como Bagging, Boosting, Adaboost, Gradient Boosting Machine - GBM, Random Forest e XGBoost com explicações teóricas e exemplos práticos. 
 
 ### 2. [SQL para Análise de Dados](https://www.kaggle.com/code/enzoschitini/sql-para-an-lise-de-dados)
-Este repositório explora técnicas fundamentais de SQL aplicadas à análise de dados, incluindo operações de filtragem, agregação, join, subconsultas e Common Table Expressions (CTEs). Com explicações teóricas e exemplos práticos.
 
 ### 3. [K-Means Clustering Algorithm](https://www.kaggle.com/code/enzoschitini/k-means-clustering-algorithm)
 
@@ -77,6 +75,8 @@ Este repositório explora técnicas fundamentais de SQL aplicadas à análise de
 ### 5. [PCA - Principal Component Analysis](https://www.kaggle.com/code/enzoschitini/pca-principal-component-analysis)
 
 ### 6. [PyCaret - Guide](https://www.kaggle.com/code/enzoschitini/pycaret-guide)
+
+### 7. [Pipelines em Python](https://github.com/enzoschitini/machine-learning/tree/Pipelines)
 
 ---
 
