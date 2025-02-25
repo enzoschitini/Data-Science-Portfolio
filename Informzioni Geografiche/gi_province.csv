@@ -1,0 +1,108 @@
+codice_regione;sigla_provincia;denominazione_provincia;tipologia_provincia;numero_comuni;superficie_kmq;codice_sovracomunale
+19;AG;Agrigento;"Libero consorzio di comuni";43;3055,9023;084
+01;AL;Alessandria;Provincia;187;3557,9433;006
+11;AN;Ancona;Provincia;47;1963,0646;042
+02;AO;"Valle d'Aosta/Vallée d'Aoste";Provincia;74;3258,6082;007
+11;AP;"Ascoli Piceno";Provincia;33;1229,4417;044
+13;AQ;L'Aquila;Provincia;108;5046,9096;066
+09;AR;Arezzo;Provincia;36;3232,9045;051
+01;AT;Asti;Provincia;117;1508,9476;005
+15;AV;Avellino;Provincia;118;2804,5210;064
+16;BA;Bari;"Citta metropolitana";41;3646,5545;272
+03;BG;Bergamo;Provincia;243;2755,6872;016
+01;BI;Biella;Provincia;74;912,8867;096
+05;BL;Belluno;Provincia;60;3608,8644;025
+15;BN;Benevento;Provincia;78;2080,5149;062
+08;BO;Bologna;"Citta metropolitana";55;3702,8342;237
+16;BR;Brindisi;Provincia;20;1860,1805;074
+03;BS;Brescia;Provincia;205;4787,0961;017
+16;BT;Barletta-Andria-Trani;Provincia;10;1542,0975;110
+04;BZ;Bolzano/Bozen;"Provincia autonoma";116;7397,7859;021
+20;CA;Cagliari;"Citta metropolitana";17;1248,0536;292
+14;CB;Campobasso;Provincia;84;2926,3362;070
+15;CE;Caserta;Provincia;104;2651,1630;061
+13;CH;Chieti;Provincia;104;2598,5676;069
+19;CL;Caltanissetta;"Libero consorzio di comuni";22;2134,2077;085
+01;CN;Cuneo;Provincia;247;6898,1862;004
+03;CO;Como;Provincia;147;1278,9512;013
+03;CR;Cremona;Provincia;113;1769,4188;019
+18;CS;Cosenza;Provincia;150;6706,1822;078
+19;CT;Catania;"Citta metropolitana";58;3071,6385;287
+18;CZ;Catanzaro;Provincia;80;2417,2091;079
+19;EN;Enna;"Libero consorzio di comuni";20;2572,9182;086
+08;FC;Forlì-Cesena;Provincia;30;2378,3159;040
+08;FE;Ferrara;Provincia;21;2627,6257;038
+16;FG;Foggia;Provincia;61;7008,6887;071
+09;FI;Firenze;"Citta metropolitana";41;3513,6116;248
+11;FM;Fermo;Provincia;40;861,3727;109
+12;FR;Frosinone;Provincia;91;3248,4220;060
+07;GE;Genova;"Citta metropolitana";67;1834,0073;210
+06;GO;Gorizia;"Unità non amministrativa";25;475,2677;031
+09;GR;Grosseto;Provincia;28;4502,2762;053
+07;IM;Imperia;Provincia;66;1155,9872;008
+14;IS;Isernia;Provincia;52;1533,4617;094
+18;KR;Crotone;Provincia;27;1734,0464;101
+03;LC;Lecco;Provincia;84;805,3935;097
+16;LE;Lecce;Provincia;96;2797,7663;075
+09;LI;Livorno;Provincia;19;1213,3914;049
+03;LO;Lodi;Provincia;60;782,3153;098
+12;LT;Latina;Provincia;33;2256,0210;059
+09;LU;Lucca;Provincia;33;1774,0314;046
+03;MB;"Monza e della Brianza";Provincia;55;405,6518;108
+11;MC;Macerata;Provincia;55;2780,8007;043
+19;ME;Messina;"Citta metropolitana";108;3266,0637;283
+03;MI;Milano;"Citta metropolitana";133;1574,4453;215
+03;MN;Mantova;Provincia;64;2341,8435;020
+08;MO;Modena;Provincia;47;2687,9534;036
+09;MS;Massa-Carrara;Provincia;17;1155,2849;045
+17;MT;Matera;Provincia;31;3479,3548;077
+15;NA;Napoli;"Citta metropolitana";92;1176,7245;263
+01;NO;Novara;Provincia;87;1340,5405;003
+20;NU;Nuoro;Provincia;74;5640,6039;091
+20;OR;Oristano;Provincia;87;2990,7029;095
+19;PA;Palermo;"Citta metropolitana";82;5005,0633;282
+08;PC;Piacenza;Provincia;46;2586,2282;033
+05;PD;Padova;Provincia;101;2145,1853;028
+13;PE;Pescara;Provincia;46;1228,6766;068
+10;PG;Perugia;Provincia;59;6335,6539;054
+09;PI;Pisa;Provincia;37;2444,3601;050
+06;PN;Pordenone;"Unità non amministrativa";50;2276,3671;093
+09;PO;Prato;Provincia;7;365,9075;100
+08;PR;Parma;Provincia;44;3445,3941;034
+09;PT;Pistoia;Provincia;20;963,5347;047
+11;PU;"Pesaro e Urbino";Provincia;50;2509,8625;041
+03;PV;Pavia;Provincia;185;2967,9289;018
+17;PZ;Potenza;Provincia;100;6592,2394;076
+08;RA;Ravenna;Provincia;18;1859,0748;039
+18;RC;"Reggio Calabria";"Citta metropolitana";97;3207,7587;280
+08;RE;"Reggio nell'Emilia";Provincia;42;2290,9265;035
+19;RG;Ragusa;"Libero consorzio di comuni";12;1623,5971;088
+12;RI;Rieti;Provincia;73;2750,0195;057
+12;RM;Roma;"Citta metropolitana";121;5365,7698;258
+08;RN;Rimini;Provincia;27;923,4651;099
+05;RO;Rovigo;Provincia;50;1823,5046;029
+15;SA;Salerno;Provincia;158;4954,9252;065
+09;SI;Siena;Provincia;35;3819,7042;052
+03;SO;Sondrio;Provincia;77;3194,8891;014
+07;SP;"La Spezia";Provincia;32;882,2961;011
+19;SR;Siracusa;"Libero consorzio di comuni";21;2121,8055;089
+20;SS;Sassari;Provincia;92;7697,7960;090
+20;SU;"Sud Sardegna";Provincia;107;6529,1399;111
+07;SV;Savona;Provincia;69;1545,4232;009
+16;TA;Taranto;Provincia;29;2467,1613;073
+13;TE;Teramo;Provincia;47;1954,7349;067
+04;TN;Trento;"Provincia autonoma";166;6208,1793;022
+01;TO;Torino;"Citta metropolitana";312;6828,3720;201
+19;TP;Trapani;"Libero consorzio di comuni";25;2469,4101;081
+10;TR;Terni;Provincia;33;2128,3147;055
+06;TS;Trieste;"Unità non amministrativa";6;212,8257;032
+05;TV;Treviso;Provincia;94;2479,2621;026
+06;UD;Udine;"Unità non amministrativa";134;4972,3729;030
+03;VA;Varese;Provincia;136;1199,2468;012
+01;VB;Verbano-Cusio-Ossola;Provincia;74;2262,6159;103
+01;VC;Vercelli;Provincia;82;2082,1730;002
+05;VE;Venezia;"Citta metropolitana";44;2477,4961;227
+05;VI;Vicenza;Provincia;113;2720,4193;024
+05;VR;Verona;Provincia;98;3096,7622;023
+12;VT;Viterbo;Provincia;60;3616,2559;056
+18;VV;"Vibo Valentia";Provincia;50;1147,4550;102

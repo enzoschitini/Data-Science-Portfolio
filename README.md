@@ -1,107 +1,62 @@
-# Data Science & Data Analyst Portfolio
-Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter os melhores Insights.
+# L'Italia in 7.000 aspetti
 
-<img src="https://raw.githubusercontent.com/enzoschitini/enzoschitini/refs/heads/main/img/Copertina.png" alt="capa">
+![Copertina](img/1-Cover.png)
 
-### **Minha relação com os dados:**
+## **Analisi comparata dei comuni italiani: uno studio multidimensionale**
 
-> ### "Sempre fui fascinado pela ciência e pela possibilidade de fazer descobertas. Essa curiosidade me levou a me tornar Data Scientist, com o propósito de resolver problemas reais e explorar o desconhecido."
+### Scoprire le caratteristiche socioeconomiche e demografiche dei comuni italiani.
 
-### `Para mim, todo Dataset esconde uma história e só temos que encontrá-la e saber contá-la`
+## Descrizione dettagliata del progetto:
 
-Os projetos estão organizados em grupos que exploram diferentes tipos de análises, cada uma essencial para obter insights valiosos que agregam valor estratégico:
+Questo progetto si propone di realizzare un'analisi approfondita e multidimensionale dei comuni italiani, cercando di comprenderne le caratteristiche socioeconomiche e demografiche.Utilizzeremo un set di dati che comprende diverse variabili, consentendo analisi comparative e l'identificazione di modelli e tendenze tra diversi comuni.L'analisi non si limiterà alla semplice descrizione dei dati, ma cercherà di individuare correlazioni e relazioni causali tra le variabili, fornendo spunti preziosi per la formulazione di politiche pubbliche e di sviluppo regionale.
 
-- **Análises Descritivas:** Para identificar fenômenos e padrões iniciais nos dados.
-- **Análises Diagnósticas:** Para investigar as causas subjacentes dos fenômenos identificados.
-- **Análises Preditivas:** Para reconhecer padrões nos dados e fazer previsões de possíveis cenários futuros e segmentações com clareza.
-- **Análises Prescritivas:** Para sugerir ações e decisões estratégicas baseadas nos insights obtidos.
+Il progetto sarà strutturato in fasi distinte: inizialmente verrà effettuata un'analisi descrittiva dei dati, generando statistiche descrittive (media, mediana, deviazione standard, ecc.) per ciascuna variabile, consentendo una prima comprensione della distribuzione dei dati e dell'eterogeneità tra i comuni.Successivamente, verranno applicate tecniche di analisi multivariata, come l'analisi delle componenti principali (PCA) e l'analisi dei cluster, per identificare gruppi di comuni con caratteristiche simili e ridurre la dimensionalità dei dati.Infine, verranno realizzate regressioni lineari e altri modelli statistici per indagare le relazioni tra le variabili, cercando di identificare i fattori che influenzano lo sviluppo socioeconomico dei comuni.L'analisi includerà l'identificazione di valori anomali e la discussione di possibili distorsioni nei dati.I risultati saranno presentati in modo chiaro e conciso, utilizzando grafici e tabelle per facilitarne l'[interpretazione.La](http://interpretazione.la/) metodologia utilizzata sarà rigorosa e trasparente, garantendo la replicabilità dei risultati. Il progetto culminerà in un rapporto completo contenente una descrizione della metodologia, un'analisi dei risultati e delle conclusioni ottenute, nonché raccomandazioni per ricerche future.
 
-Além disso, incluo projetos que refletem minha trajetória, incluindo alguns dos meus primeiros trabalhos na área.
+## Importanza del progetto:
 
----
+Una conoscenza approfondita delle caratteristiche dei comuni italiani è fondamentale per la formulazione di politiche pubbliche efficaci e per uno sviluppo territoriale equilibrato.Questo progetto contribuirà in modo significativo al raggiungimento di questo obiettivo, fornendo informazioni dettagliate e preziosi spunti sulle disparità regionali e sulle complesse interazioni tra diversi fattori socioeconomici e demografici.
 
-## 📁 Projetos criados:
+L'analisi comparativa dei comuni ci consentirà di individuare le migliori pratiche e le sfide affrontate nei diversi contesti, fornendo supporto per un processo decisionale basato su prove [concrete.Ad](http://concrete.ad/) esempio, l'individuazione di comuni con un elevato livello di sviluppo economico e un basso livello di disuguaglianza sociale potrebbe fungere da modello per altri comuni.Allo stesso modo, l'analisi delle correlazioni tra le variabili consentirà di comprendere quali fattori contribuiscono al successo o al fallimento di determinate politiche pubbliche, consentendo aggiustamenti e miglioramenti.
 
-## Marketing Campaign Optimization (K-Means)
-> Este projeto utiliza o algoritmo de clusterização K-Means para segmentar clientes de um e-commerce com base em dados demográficos, comportamentais e de consumo, gerando insights acionáveis para campanhas de marketing personalizadas. A análise revelou quatro grupos distintos de clientes, permitindo identificar os mais lucrativos e estratégias para redirecionar recursos, aumentando potencialmente o faturamento em quase 12% (mais de $150 mil). 
-> Com uma abordagem data-driven, o projeto destacou a importância da personalização para otimizar o ROI, melhorar a experiência do cliente e identificar novas oportunidades de crescimento.
+Inoltre, il progetto contribuirà all'avanzamento delle conoscenze scientifiche nel campo degli studi regionali e dello sviluppo locale, fornendo dati e analisi che potranno essere utilizzati da ricercatori, dirigenti pubblici e altri soggetti interessati allo sviluppo del [Paese.La](http://paese.la/) diffusione dei risultati di questo progetto, attraverso pubblicazioni scientifiche e rapporti tecnici, contribuirà al dibattito pubblico sulle politiche di sviluppo regionale e alla promozione di uno sviluppo più equo e sostenibile in [Italia.In](http://italia.in/) sintesi, questo progetto avrà un impatto positivo e duraturo sullo sviluppo regionale italiano, contribuendo alla costruzione di un Paese più equo e prospero.
 
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Marketing-Campaign-Optimization)
+## Pilastri interessanti per l'analisi (sulla base dei dati forniti):
 
-## Dados do Sistema de Informação sobre Nascidos Vivos (SINASC) de Rondônia em 2019
-> A análise dos dados do SINASC em Rondônia em 2019 revela um retrato fascinante e por vezes preocupante da realidade local. Destaca-se que 12% dos partos foram de adolescentes grávidas casadas com homens mais velhos, acendendo alertas sobre desigualdades de poder e vulnerabilidades sociais. Além disso, os dados evidenciam que mães negras possuem uma média mais alta de filhos mortos, enquanto mães indígenas têm, em média, mais filhos vivos. Outro ponto intrigante é a predominância de partos cesáreos na maioria dos grupos, com exceção das mães indígenas, que optam mais pelo parto vaginal. A pesquisa também explorou como escolaridade, idade e raça influenciam fatores como saúde materno-infantil e escolha do tipo de parto. Esses insights revelam a urgência de políticas públicas direcionadas para combater desigualdades e promover a saúde na região.
+**Considerando i dati presentati, i seguenti pilastri possono generare spunti capaci di avere un impatto positivo:**
 
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Sinasc)
-##
+- **Sviluppo economico e distribuzione del reddito:** analizzare la relazione tra indicatori di sviluppo economico (come reddito medio annuo, imposte nette) e indicatori sociali (come tasso di disoccupazione, dedotto dall'occupazione settoriale, livello di istruzione, popolazione straniera).L'analisi può rivelare disuguaglianze regionali e identificare i fattori che stimolano o inibiscono la crescita economica e la riduzione della povertà.
+- **Dinamiche demografiche e invecchiamento della popolazione:** indagare la relazione tra l'età media della popolazione, il numero di abitanti e la quantità di servizi disponibili (scuole, parrocchie, ecc.).Questa analisi potrebbe indicare esigenze specifiche in termini di infrastrutture e servizi sociali nelle regioni con un'alta concentrazione di anziani o giovani.
+- **Istruzione e mercato del lavoro:** Analizzare la correlazione tra livelli di istruzione (licenza elementare, diploma, laurea) e partecipazione al mercato del lavoro, considerando la distribuzione settoriale dell'occupazione (industria, servizi, amministrazione, ecc.).Questa analisi può identificare le esigenze di qualificazione professionale e mettere in luce i colli di bottiglia nel mercato del lavoro.
+- **Integrazione degli immigrati:** Valutare la relazione tra la percentuale di stranieri nella popolazione e gli indicatori sociali ed economici.Questa analisi potrebbe contribuire allo sviluppo di politiche di integrazione e inclusione sociale per gli immigrati.
+- **Efficienza della Pubblica Amministrazione:** confrontando il numero di dipendenti pubblici e la qualità dei servizi pubblici offerti, è possibile ottenere informazioni sull'efficienza della pubblica amministrazione nei diversi comuni.
+- **Sviluppo regionale e localizzazione geografica:** analizzare la relazione tra la distanza del comune rispetto al capoluogo di provincia e gli indicatori socioeconomici.Ciò potrebbe mettere in luce le disuguaglianze tra aree centrali e periferiche e l'influenza della vicinanza ai centri urbani sullo sviluppo locale.
 
-## Olist Insights • Análise de Dados do E-commerce
-> Identificando Oportunidades de Crescimento e Melhoria Através da Exploração de Dados de Vendas. O projeto Olist Insights foi desenvolvido para explorar de forma abrangente os dados disponibilizados pelo Olist, utilizando técnicas de análise e visualização de dados para transformar informações brutas em insights estratégicos. 
-
-> O dashboard é estruturado para responder perguntas-chave sobre vendas, logística, produtos, comportamento do cliente e avaliações, permitindo uma compreensão detalhada do funcionamento de uma operação de e-commerce.  Com base em colunas que abrangem desde características de pedidos até dados geográficos e de avaliação, o objetivo é fornecer ferramentas que auxiliem na tomada de decisões mais assertivas.
-
-> [GitHub Repository](https://github.com/enzoschitini/Olist) | [DASHBOARD](https://olist-insights.streamlit.app/)
-##
-
-## Credit Card Approval Prediction
-> Nesse projeto usei técnicas de machine learning para desenvolver um modelo capaz de prever a aprovação ou rejeição de solicitações de cartão de crédito. Analisamos dados históricos de clientes, incluindo informações demográficas e financeiras, para identificar padrões que influenciam a decisão de aprovação. Projeto muito comum em instituições financeiras com o objetivo de minimizar riscos de crédito e otimizar o processo de concessão, assegurando que apenas clientes qualificados sejam aprovados.
-
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Credit-Card-Approval-Prediction)
-##
-
-## Aplicação Streamlit que gera gráficos de dados coletados do Yahoo Finance
-> Este projeto envolve o desenvolvimento de uma aplicação interativa usando Streamlit, que permite aos usuários visualizar dados financeiros coletados do Yahoo Finance. A aplicação oferece uma interface amigável para consultar, analisar e visualizar informações sobre diferentes ativos financeiros, tais como ações, índices e moedas. Com funcionalidades como seleção de período, tipos de gráficos e indicadores financeiros, a aplicação visa facilitar a compreensão das tendências de mercado e a tomada de decisões informadas. Dados de empresas como Petrobras, Coca-Cola, Amazon, Tesla, Itaú e Emirates.
-
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Financial-shares-of-large-companies)
-##
-
----
+Utilizzando questi pilastri come focus dell'analisi, il progetto sarà in grado di generare risultati rilevanti e di impatto, contribuendo a una migliore comprensione della realtà dei comuni italiani e alla formulazione di politiche pubbliche più efficaci.
 
 
 
 
 
 
-## 📝 Artigos:
 
 
-### 1. [Ensemble Techniques](https://github.com/enzoschitini/machine-learning/tree/Ensemble-Techniques)
 
-### 2. [SQL para Análise de Dados](https://www.kaggle.com/code/enzoschitini/sql-para-an-lise-de-dados)
+## Idee per le analisi:
 
-### 3. [K-Means Clustering Algorithm](https://www.kaggle.com/code/enzoschitini/k-means-clustering-algorithm)
+### **Dov'è che non ci sta più niente?** - I comuni italiani che hanno presentato sempre meno nuovi palazzi negli ultimi anni. Inoltre, com'è la situazione per l'intero paese.
 
-### 4. [🐼 Guia para usar métodos e funções do Pandas](https://www.kaggle.com/code/enzoschitini/guide-to-using-pandas-methods-and-functions)
+### **Divisioni delle età** - Come solo le percentuali di bambini, adolescenti, giovani, adulti e anziani. Dove si invecchia di più, potrebbe essere un segno della qualità della vita?. Dove si vive di più?
 
-### 5. [PCA - Principal Component Analysis](https://www.kaggle.com/code/enzoschitini/pca-principal-component-analysis)
+### **Rapporto dei comuni con la fede** - Quali sono i comuni con la percentuale più alta di parrocchiani rispetto alla quantità di abitanti?
 
-### 6. [PyCaret - Guide](https://www.kaggle.com/code/enzoschitini/pycaret-guide)
+### **"Disuguaglianze" fra Nord e Sud** - Hanno tutti gli stessi diritti e condizioni?
 
-### 7. [Pipelines em Python](https://github.com/enzoschitini/machine-learning/tree/Pipelines)
+### **Redditi e guadagni**
 
----
+### **I grattacieli** - Tra le grandi provincie chi a la meglio quando si parla di grattacieli?
 
-### Minha trajetória: Meus primeiros projetos
-**ATENÇÃO:** *Estes são alguns dos meus primeiros projetos. Portanto, tantas coisas se eu tivesse que fazê hoje, faria de forma diferente*
-###  
+### **Le scuole offrono i livelli scolastici giusti?** - Capire com'è la distrubuzione di livelli scolastici offerti da un comune e la quantità di studenti che appartengono a quel gruppo.
 
-> ### Trevi - climate change
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos.
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Minha-trajet%C3%B3ria/Climate%20Change)
+### **Dove ci sono più industrie?**
 
-> ### FIFA National teams
-> Este projeto irá explorar o desempenho das seleções nacionais de futebol de 1993 a 2022, oferecendo uma visão detalhada e envolvente das suas façanhas em campo.
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Minha-trajet%C3%B3ria/Spogliatoi)
 
-> ### Imola kepler data
-> Esse é um algoritmo que revela dados incríveis sobre exoplanetas e a temperatura das estrelas. O telescópio é dedicado à busca de exoplanetas em sistemas estelares além do nosso.
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Minha-trajet%C3%B3ria/Imola)
-
-##
-
-<p align="center">
-  Enzo Schitini
-</p>
-
-<p align="center">
-  Data Scientist & Data Analyst • Senior Bubble Developer • SQL • Ux/Ui Design @ Scituffy Founder
-</p>

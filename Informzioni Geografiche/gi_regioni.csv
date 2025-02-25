@@ -1,0 +1,21 @@
+ripartizione_geografica;codice_regione;denominazione_regione;tipologia_regione;numero_province;numero_comuni;superficie_kmq
+Nord-ovest;01;Piemonte;"statuto ordinario";8;1180;25391,6652
+Nord-ovest;02;"Valle d'Aosta/Vallée d'Aoste";"statuto speciale";1;74;3258,6082
+Nord-ovest;03;Lombardia;"statuto ordinario";12;1502;23862,8675
+Nord-est;04;"Trentino-Alto Adige/Südtirol";"statuto speciale";2;282;13605,9652
+Nord-est;05;Veneto;"statuto ordinario";7;560;18351,4940
+Nord-est;06;"Friuli-Venezia Giulia";"statuto speciale";4;215;7936,8334
+Nord-ovest;07;Liguria;"statuto ordinario";4;234;5417,7138
+Nord-est;08;Emilia-Romagna;"statuto ordinario";9;330;22501,8179
+Centro;09;Toscana;"statuto ordinario";10;273;22985,0065
+Centro;10;Umbria;"statuto ordinario";2;92;8463,9686
+Centro;11;Marche;"statuto ordinario";5;225;9344,5422
+Centro;12;Lazio;"statuto ordinario";5;378;17236,4882
+Sud;13;Abruzzo;"statuto ordinario";4;305;10828,8887
+Sud;14;Molise;"statuto ordinario";2;136;4459,7979
+Sud;15;Campania;"statuto ordinario";5;550;13667,8486
+Sud;16;Puglia;"statuto ordinario";6;257;19322,4488
+Sud;17;Basilicata;"statuto ordinario";2;131;10071,5942
+Sud;18;Calabria;"statuto ordinario";5;404;15212,6514
+Isole;19;Sicilia;"statuto speciale";9;391;25320,6064
+Isole;20;Sardegna;"statuto speciale";9;377;24106,2963

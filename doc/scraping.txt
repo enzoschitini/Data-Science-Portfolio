@@ -1,0 +1,1159 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Le province italiane</title>
+<meta content="Le province italiane: informazioni, meteo, mappe, video, statistiche." name="Description"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="/scripts/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/scripts/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet"/>
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!-- Icons -->
+<link href="/scripts/icons/general/stylesheets/general_foundicons.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="/scripts/icons/social/stylesheets/social_foundicons.css" media="screen" rel="stylesheet" type="text/css"/>
+<!--[if lt IE 8]>
+<link href="/scripts/icons/general/stylesheets/general_foundicons_ie7.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/scripts/icons/social/stylesheets/social_foundicons_ie7.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="/scripts/fontawesome/css/font-awesome.min.css" rel="stylesheet"/>
+<!--[if IE 7]>
+<link rel="stylesheet" href="/scripts/fontawesome/css/font-awesome-ie7.min.css">
+<![endif]-->
+<link href="/css/custom.css" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Syncopate" rel="stylesheet" type="text/css"/>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-0386573283680911",
+          enable_page_level_ads: true
+     });
+</script>
+</head>
+<body id="pageBody">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0Y6Y9LCFZ2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0Y6Y9LCFZ2');
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-234008-8', 'auto');
+  setTimeout("ga('send', 'event', 'read', '10_seconds');",10000);
+  ga('send', 'pageview');
+</script>
+<div class="container" id="divBoxed">
+<div class="transparent-bg" style="position: absolute;top: 0;left:0; width: 100%;height: 100%;z-index: -1;zoom: 1;"></div>
+<div class="divPanel notop nobottom">
+<div class="row-fluid">
+<div class="span7">
+<a href="#top" id="toTop"></a>
+<div id="divLogo">
+<a href="/index.html" id="divSiteTitle">Italia.indettaglio.it</a>
+<a href="/index.html" id="divTagLine">I Comuni e le Frazioni d'Italia</a>
+</div>
+<div id="lingua"><a href="/eng/province/province.html"><img alt="English" src="/images/eng.png"/></a></div></div>
+<div class="span5">
+<div id="search_top">
+<script>
+(function() {
+var cx = 'partner-pub-0386573283680911:6475491910';
+var gcse = document.createElement('script');
+gcse.type = 'text/javascript';
+gcse.async = true;
+gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+'//cse.google.com/cse.js?cx=' + cx;
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(gcse, s);
+})();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+</div>
+<div id="divMenuRight">
+<div class="navbar">
+</div>
+</div>
+</div>
+</div>
+<div class="contentArea">
+<a href="#top" id="toTop"></a>
+<div class="divPanel notop page-content">
+<div class="row-fluid">
+<!--Edit Sidebar Content here-->
+<div class="span2" id="divMenuLeft">
+<!--Edit Sidebar Content here-->
+<div class="navbar navbar-default" role="navigation">
+<button class="btn btn-navbar-highlight btn-large btn-primary" data-target=".nav-collapse" data-toggle="collapse" type="button">
+<span class="icon-reorder icon-white pull-left"> MenÃ¹</span>
+</button>
+<div class="nav-collapse collapse sidebar-navbar-collapse">
+<p> </p>
+<ul id="finca">
+<li><a href="/eng/province/province.html">
+<img alt="English" src="/images/eng.png"/> English</a></li>
+</ul>
+<button class="btn btn-primary btn-sm btn-block" type="button">INFORMAZIONI</button>
+<ul id="finca">
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/covid/covid.html"><b class="red_color">COVID-19 Italia</b></a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/regioni/regioni.html">Le Regioni</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/province/province.html">Le Province</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/comuni/comuni.html">I Comuni</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/frazioni/frazioni.html">Le Frazioni</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/variazioni/variazioni.html">Variazioni Comuni</a></li>
+</ul>
+<button class="btn btn-primary btn-sm btn-block" type="button">S E R V I Z I</button>
+<ul id="finca">
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/cap/cap.html">C.A.P. d'Italia</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/cognomi/cognomi.html">Cognomi d'Italia</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/entrate/entrate.html"><b class="blue_color">Entrate comuni</b></a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/spese/spese.html"><b class="blue_color">Spese comunali</b></a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/redditi/redditi.html"><b class="blue_color">Redditi in Italia</b></a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/statistiche/statistiche.html"><b class="red_color">Le statistiche</b></a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/statistiche/statistiche.html#grafici3d"><b class="red_color">Dati in 3D</b></a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/gradi_giorno/gradi_giorno.html">Gradi giorno</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/sismicita/sismicita.html">SismicitÃ </a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/strade/strade.html">Strade e sinistri</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/parrocchie/parrocchie.html">Parrocchie</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/banche/sportelli.html">Banche d'Italia</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/amministrazioni/amministrazioni.html">Amministrazioni</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/imposte/imposte.html">IMU TARI TASI</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/farmacie/farmacie.html">Farmacie</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/parafarmacie/parafarmacie.html">Parafarmacie</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/scuole/scuole.html">Scuole</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/meteo/meteo.html">Meteo d'Italia</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/email/email.html">E-Mail e PEC</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/fattpa/fattpa.html">Fatt. Elettronica</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/annunci/annunci.html">Annunci gratuiti</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/mappe/mappe.html">Mappe d'Italia</a></li>
+<li><i class="icon-double-angle-right icon"></i><a href="/ita/webdue/webdue.html">I vostri articoli</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!--/End Sidebar Content -->
+<!--Edit Main Content Area here-->
+<div class="span8" id="divMain">
+<h1>Le province italiane</h1>
+<div class="row-fluid">
+<div class="span6">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Res_Retta_Italia_Ita_1, creato 22/04/2015 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-0386573283680911" data-ad-format="auto" data-ad-slot="5205360312" style="display:block"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<div class="span6">
+<p>
+In questa pagina viene presentato l'eleco completo e aggiornato di tutte le province italiane.
+<p>
+Per ogni provincia, oltre a varie informazioni utili, sono anche proposte le previsioni meteo, i video, le mappe e le carte stradali e diversi dati statistici.</p><p>
+Scegliete uno dei link della parte <b>inferiore</b> della pagina per ottenere informazioni sulla provincia di vostro interesse.
+</p>
+<p>
+Scegliendo invece uno dei link a <b>sinistra</b> potrete ottenere direttamente le informazioni tematiche alle quali siete interessati, quali ad esempio i cognomi locali, gli indirizzi email dei vari comuni, i cap, anche zonali, i video, i bilanci comunali e i redditi comune per comune, banche, parrocchie, scuole e tanto altro ancora.
+</p>
+<p><i>Fate la vostra scelta</i>.</p>
+</p></div>
+</div>
+<div class="row-fluid">
+<div class="span12">
+<table class="table">
+<tr>
+<td>
+<b>Abruzzo</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_chieti.html">Chieti</a>, <a href="/ita/province/provincia_di_laquila.html">L'Aquila</a>, <a href="/ita/province/provincia_di_pescara.html">Pescara</a>, <a href="/ita/province/provincia_di_teramo.html">Teramo</a>.</span></td></tr>
+<tr>
+<td>
+<b>Basilicata</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_matera.html">Matera</a>, <a href="/ita/province/provincia_di_potenza.html">Potenza</a>.</span></td></tr>
+<tr>
+<td>
+<b>Calabria</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_catanzaro.html">Catanzaro</a>, <a href="/ita/province/provincia_di_cosenza.html">Cosenza</a>, <a href="/ita/province/provincia_di_crotone.html">Crotone</a>, <a href="/ita/province/provincia_di_reggiocalabria.html">Reggio Calabria</a>, <a href="/ita/province/provincia_di_vibovalentia.html">Vibo Valentia</a>.</span></td></tr>
+<tr>
+<td>
+<b>Campania</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_avellino.html">Avellino</a>, <a href="/ita/province/provincia_di_benevento.html">Benevento</a>, <a href="/ita/province/provincia_di_caserta.html">Caserta</a>, <a href="/ita/province/provincia_di_napoli.html">Napoli</a>, <a href="/ita/province/provincia_di_salerno.html">Salerno</a>.</span></td></tr>
+<tr>
+<td>
+<b>Emilia-Romagna</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_bologna.html">Bologna</a>, <a href="/ita/province/provincia_di_ferrara.html">Ferrara</a>, <a href="/ita/province/provincia_di_forlicesena.html">ForlÃ¬-Cesena</a>, <a href="/ita/province/provincia_di_modena.html">Modena</a>, <a href="/ita/province/provincia_di_parma.html">Parma</a>, <a href="/ita/province/provincia_di_piacenza.html">Piacenza</a>, <a href="/ita/province/provincia_di_ravenna.html">Ravenna</a>, <a href="/ita/province/provincia_di_reggioemilia.html">Reggio Emilia</a>, <a href="/ita/province/provincia_di_rimini.html">Rimini</a>.</span></td></tr>
+<tr>
+<td>
+<b>Friuli-Venezia Giulia</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_gorizia.html">Gorizia</a>, <a href="/ita/province/provincia_di_pordenone.html">Pordenone</a>, <a href="/ita/province/provincia_di_trieste.html">Trieste</a>, <a href="/ita/province/provincia_di_udine.html">Udine</a>.</span></td></tr>
+<tr>
+<td>
+<b>Lazio</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_frosinone.html">Frosinone</a>, <a href="/ita/province/provincia_di_latina.html">Latina</a>, <a href="/ita/province/provincia_di_rieti.html">Rieti</a>, <a href="/ita/province/provincia_di_roma.html">Roma</a>, <a href="/ita/province/provincia_di_viterbo.html">Viterbo</a>.</span></td></tr>
+<tr>
+<td>
+<b>Liguria</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_genova.html">Genova</a>, <a href="/ita/province/provincia_di_imperia.html">Imperia</a>, <a href="/ita/province/provincia_di_laspezia.html">La Spezia</a>, <a href="/ita/province/provincia_di_savona.html">Savona</a>.</span></td></tr>
+<tr>
+<td>
+<b>Lombardia</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_bergamo.html">Bergamo</a>, <a href="/ita/province/provincia_di_brescia.html">Brescia</a>, <a href="/ita/province/provincia_di_como.html">Como</a>, <a href="/ita/province/provincia_di_cremona.html">Cremona</a>, <a href="/ita/province/provincia_di_lecco.html">Lecco</a>, <a href="/ita/province/provincia_di_lodi.html">Lodi</a>, <a href="/ita/province/provincia_di_mantova.html">Mantova</a>, <a href="/ita/province/provincia_di_milano.html">Milano</a>, <a href="/ita/province/provincia_di_monzaedellabrianza.html">Monza e della Brianza</a>, <a href="/ita/province/provincia_di_pavia.html">Pavia</a>, <a href="/ita/province/provincia_di_sondrio.html">Sondrio</a>, <a href="/ita/province/provincia_di_varese.html">Varese</a>.</span></td></tr>
+<tr>
+<td>
+<b>Marche</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_ancona.html">Ancona</a>, <a href="/ita/province/provincia_di_ascolipiceno.html">Ascoli Piceno</a>, <a href="/ita/province/provincia_di_fermo.html">Fermo</a>, <a href="/ita/province/provincia_di_macerata.html">Macerata</a>, <a href="/ita/province/provincia_di_pesarourbino.html">Pesaro Urbino</a>.</span></td></tr>
+<tr>
+<td>
+<b>Molise</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_campobasso.html">Campobasso</a>, <a href="/ita/province/provincia_di_isernia.html">Isernia</a>.</span></td></tr>
+<tr>
+<td>
+<b>Piemonte</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_alessandria.html">Alessandria</a>, <a href="/ita/province/provincia_di_asti.html">Asti</a>, <a href="/ita/province/provincia_di_biella.html">Biella</a>, <a href="/ita/province/provincia_di_cuneo.html">Cuneo</a>, <a href="/ita/province/provincia_di_novara.html">Novara</a>, <a href="/ita/province/provincia_di_torino.html">Torino</a>, <a href="/ita/province/provincia_di_verbanocusioossola.html">Verbano-Cusio-Ossola</a>, <a href="/ita/province/provincia_di_vercelli.html">Vercelli</a>.</span></td></tr>
+<tr>
+<td>
+<b>Puglia</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_bari.html">Bari</a>, <a href="/ita/province/provincia_di_barlettaandriatrani.html">Barletta-Andria-Trani</a>, <a href="/ita/province/provincia_di_brindisi.html">Brindisi</a>, <a href="/ita/province/provincia_di_foggia.html">Foggia</a>, <a href="/ita/province/provincia_di_lecce.html">Lecce</a>, <a href="/ita/province/provincia_di_taranto.html">Taranto</a>.</span></td></tr>
+<tr>
+<td>
+<b>Sardegna</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_cagliari.html">Cagliari</a>, <a href="/ita/province/provincia_di_nuoro.html">Nuoro</a>, <a href="/ita/province/provincia_di_oristano.html">Oristano</a>, <a href="/ita/province/provincia_di_sassari.html">Sassari</a>, <a href="/ita/province/provincia_di_sudsardegna.html">Sud Sardegna</a>.</span></td></tr>
+<tr>
+<td>
+<b>Sicilia</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_agrigento.html">Agrigento</a>, <a href="/ita/province/provincia_di_caltanissetta.html">Caltanissetta</a>, <a href="/ita/province/provincia_di_catania.html">Catania</a>, <a href="/ita/province/provincia_di_enna.html">Enna</a>, <a href="/ita/province/provincia_di_messina.html">Messina</a>, <a href="/ita/province/provincia_di_palermo.html">Palermo</a>, <a href="/ita/province/provincia_di_ragusa.html">Ragusa</a>, <a href="/ita/province/provincia_di_siracusa.html">Siracusa</a>, <a href="/ita/province/provincia_di_trapani.html">Trapani</a>.</span></td></tr>
+<tr>
+<td>
+<b>Toscana</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_arezzo.html">Arezzo</a>, <a href="/ita/province/provincia_di_firenze.html">Firenze</a>, <a href="/ita/province/provincia_di_grosseto.html">Grosseto</a>, <a href="/ita/province/provincia_di_livorno.html">Livorno</a>, <a href="/ita/province/provincia_di_lucca.html">Lucca</a>, <a href="/ita/province/provincia_di_massacarrara.html">Massa-Carrara</a>, <a href="/ita/province/provincia_di_pisa.html">Pisa</a>, <a href="/ita/province/provincia_di_pistoia.html">Pistoia</a>, <a href="/ita/province/provincia_di_prato.html">Prato</a>, <a href="/ita/province/provincia_di_siena.html">Siena</a>.</span></td></tr>
+<tr>
+<td>
+<b>Trentino-Alto Adige</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_bolzano.html">Bolzano</a>, <a href="/ita/province/provincia_di_trento.html">Trento</a>.</span></td></tr>
+<tr>
+<td>
+<b>Umbria</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_perugia.html">Perugia</a>, <a href="/ita/province/provincia_di_terni.html">Terni</a>.</span></td></tr>
+<tr>
+<td>
+<b>Valle d'Aosta</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_aosta.html">Aosta</a>.</span></td></tr>
+<tr>
+<td>
+<b>Veneto</b>:
+</td>
+<td><span class="comuni">
+<a href="/ita/province/provincia_di_belluno.html">Belluno</a>, <a href="/ita/province/provincia_di_padova.html">Padova</a>, <a href="/ita/province/provincia_di_rovigo.html">Rovigo</a>, <a href="/ita/province/provincia_di_treviso.html">Treviso</a>, <a href="/ita/province/provincia_di_venezia.html">Venezia</a>, <a href="/ita/province/provincia_di_verona.html">Verona</a>, <a href="/ita/province/provincia_di_vicenza.html">Vicenza</a>.</span></td></tr>
+</table>
+<p class="centro">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Res_Leaderboard_Italia_ita_1, creato 22/04/2015 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-0386573283680911" data-ad-format="auto" data-ad-slot="5065759512" style="display:block"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+</div>
+<div class="tb_resp">
+<p>
+<h3>Dati sulla popolazione in tutte le province italiane</h3>
+</p>
+<p>
+<table class="table">
+<tr class="info">
+<td><b>Provincia</b></td>
+<td><b>Popolazione Maschile</b></td>
+<td><b>Popolazione Femminile</b></td>
+<td><b>Popolazione totale</b></td>
+<td><b>Ultracentenari</b></td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_agrigento.html">Agrigento</a><b></b></b></td>
+<td>217.412</td>
+<td>230.326</td>
+<td>447.738</td>
+<td>107</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_alessandria.html">Alessandria</a><b></b></b></td>
+<td>208.164</td>
+<td>223.721</td>
+<td>431.885</td>
+<td>228</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_ancona.html">Ancona</a><b></b></b></td>
+<td>230.229</td>
+<td>247.663</td>
+<td>477.892</td>
+<td>169</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_aosta.html">Aosta</a><b></b></b></td>
+<td>62.564</td>
+<td>65.734</td>
+<td>128.298</td>
+<td>38</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_arezzo.html">Arezzo</a><b></b></b></td>
+<td>168.004</td>
+<td>178.438</td>
+<td>346.442</td>
+<td>126</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_ascolipiceno.html">Ascoli Piceno</a><b></b></b></td>
+<td>102.114</td>
+<td>109.152</td>
+<td>211.266</td>
+<td>76</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_asti.html">Asti</a><b></b></b></td>
+<td>106.638</td>
+<td>112.654</td>
+<td>219.292</td>
+<td>88</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_avellino.html">Avellino</a><b></b></b></td>
+<td>209.010</td>
+<td>218.926</td>
+<td>427.936</td>
+<td>141</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_bari.html">Bari</a><b></b></b></td>
+<td>617.104</td>
+<td>649.275</td>
+<td>1.266.379</td>
+<td>334</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_barlettaandriatrani.html">Barletta-Andria-Trani</a><b></b></b></td>
+<td>194.654</td>
+<td>199.733</td>
+<td>394.387</td>
+<td>59</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_belluno.html">Belluno</a><b></b></b></td>
+<td>100.307</td>
+<td>107.587</td>
+<td>207.894</td>
+<td>93</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_benevento.html">Benevento</a><b></b></b></td>
+<td>137.301</td>
+<td>145.020</td>
+<td>282.321</td>
+<td>87</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_bergamo.html">Bergamo</a><b></b></b></td>
+<td>548.992</td>
+<td>559.861</td>
+<td>1.108.853</td>
+<td>230</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_biella.html">Biella</a><b></b></b></td>
+<td>86.480</td>
+<td>94.609</td>
+<td>181.089</td>
+<td>74</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_bologna.html">Bologna</a><b></b></b></td>
+<td>482.366</td>
+<td>521.957</td>
+<td>1.004.323</td>
+<td>449</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_bolzano.html">Bolzano</a><b></b></b></td>
+<td>255.792</td>
+<td>262.726</td>
+<td>518.518</td>
+<td>127</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_brescia.html">Brescia</a><b></b></b></td>
+<td>622.658</td>
+<td>642.419</td>
+<td>1.265.077</td>
+<td>361</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_brindisi.html">Brindisi</a><b></b></b></td>
+<td>192.634</td>
+<td>208.087</td>
+<td>400.721</td>
+<td>77</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_cagliari.html">Cagliari</a><b></b></b></td>
+<td>273.796</td>
+<td>288.129</td>
+<td>561.925</td>
+<td>149</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_caltanissetta.html">Caltanissetta</a><b></b></b></td>
+<td>133.004</td>
+<td>141.020</td>
+<td>274.024</td>
+<td>59</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_campobasso.html">Campobasso</a><b></b></b></td>
+<td>110.540</td>
+<td>115.980</td>
+<td>226.520</td>
+<td>78</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_caserta.html">Caserta</a><b></b></b></td>
+<td>451.449</td>
+<td>473.165</td>
+<td>924.614</td>
+<td>120</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_catania.html">Catania</a><b></b></b></td>
+<td>541.906</td>
+<td>575.011</td>
+<td>1.116.917</td>
+<td>208</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_catanzaro.html">Catanzaro</a><b></b></b></td>
+<td>176.810</td>
+<td>186.897</td>
+<td>363.707</td>
+<td>115</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_chieti.html">Chieti</a><b></b></b></td>
+<td>190.840</td>
+<td>201.923</td>
+<td>392.763</td>
+<td>151</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_como.html">Como</a><b></b></b></td>
+<td>293.530</td>
+<td>306.375</td>
+<td>599.905</td>
+<td>192</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_cosenza.html">Cosenza</a><b></b></b></td>
+<td>350.560</td>
+<td>366.975</td>
+<td>717.535</td>
+<td>236</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_cremona.html">Cremona</a><b></b></b></td>
+<td>177.276</td>
+<td>184.334</td>
+<td>361.610</td>
+<td>108</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_crotone.html">Crotone</a><b></b></b></td>
+<td>86.122</td>
+<td>88.206</td>
+<td>174.328</td>
+<td>29</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_cuneo.html">Cuneo</a><b></b></b></td>
+<td>290.904</td>
+<td>301.156</td>
+<td>592.060</td>
+<td>197</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_enna.html">Enna</a><b></b></b></td>
+<td>82.571</td>
+<td>88.619</td>
+<td>171.190</td>
+<td>38</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_fermo.html">Fermo</a><b></b></b></td>
+<td>85.620</td>
+<td>90.760</td>
+<td>176.380</td>
+<td>56</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_ferrara.html">Ferrara</a><b></b></b></td>
+<td>169.208</td>
+<td>184.865</td>
+<td>354.073</td>
+<td>158</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_firenze.html">Firenze</a><b></b></b></td>
+<td>483.699</td>
+<td>528.481</td>
+<td>1.012.180</td>
+<td>466</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_foggia.html">Foggia</a><b></b></b></td>
+<td>309.612</td>
+<td>324.227</td>
+<td>633.839</td>
+<td>169</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_forlicesena.html">ForlÃ¬-Cesena</a><b></b></b></td>
+<td>192.161</td>
+<td>203.736</td>
+<td>395.897</td>
+<td>160</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_frosinone.html">Frosinone</a><b></b></b></td>
+<td>243.014</td>
+<td>253.957</td>
+<td>496.971</td>
+<td>140</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_genova.html">Genova</a><b></b></b></td>
+<td>407.643</td>
+<td>454.532</td>
+<td>862.175</td>
+<td>488</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_gorizia.html">Gorizia</a><b></b></b></td>
+<td>68.828</td>
+<td>72.069</td>
+<td>140.897</td>
+<td>66</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_grosseto.html">Grosseto</a><b></b></b></td>
+<td>107.759</td>
+<td>116.722</td>
+<td>224.481</td>
+<td>92</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_imperia.html">Imperia</a><b></b></b></td>
+<td>103.886</td>
+<td>112.932</td>
+<td>216.818</td>
+<td>90</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_isernia.html">Isernia</a><b></b></b></td>
+<td>42.719</td>
+<td>44.109</td>
+<td>86.828</td>
+<td>52</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_laquila.html">L'Aquila</a><b></b></b></td>
+<td>149.807</td>
+<td>155.077</td>
+<td>304.884</td>
+<td>113</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_laspezia.html">La Spezia</a><b></b></b></td>
+<td>106.280</td>
+<td>115.383</td>
+<td>221.663</td>
+<td>123</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_latina.html">Latina</a><b></b></b></td>
+<td>281.864</td>
+<td>290.608</td>
+<td>572.472</td>
+<td>134</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_lecce.html">Lecce</a><b></b></b></td>
+<td>385.293</td>
+<td>421.119</td>
+<td>806.412</td>
+<td>207</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_lecco.html">Lecco</a><b></b></b></td>
+<td>167.195</td>
+<td>173.056</td>
+<td>340.251</td>
+<td>123</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_livorno.html">Livorno</a><b></b></b></td>
+<td>162.563</td>
+<td>176.507</td>
+<td>339.070</td>
+<td>130</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_lodi.html">Lodi</a><b></b></b></td>
+<td>113.033</td>
+<td>116.543</td>
+<td>229.576</td>
+<td>47</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_lucca.html">Lucca</a><b></b></b></td>
+<td>189.157</td>
+<td>204.321</td>
+<td>393.478</td>
+<td>144</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_macerata.html">Macerata</a><b></b></b></td>
+<td>156.144</td>
+<td>165.761</td>
+<td>321.905</td>
+<td>137</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_mantova.html">Mantova</a><b></b></b></td>
+<td>202.886</td>
+<td>212.033</td>
+<td>414.919</td>
+<td>136</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_massacarrara.html">Massa-Carrara</a><b></b></b></td>
+<td>95.898</td>
+<td>103.508</td>
+<td>199.406</td>
+<td>84</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_matera.html">Matera</a><b></b></b></td>
+<td>98.864</td>
+<td>102.441</td>
+<td>201.305</td>
+<td>43</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_messina.html">Messina</a><b></b></b></td>
+<td>310.722</td>
+<td>334.574</td>
+<td>645.296</td>
+<td>213</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_milano.html">Milano</a><b></b></b></td>
+<td>1.545.121</td>
+<td>1.651.704</td>
+<td>3.196.825</td>
+<td>1.082</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_modena.html">Modena</a><b></b></b></td>
+<td>342.449</td>
+<td>359.915</td>
+<td>702.364</td>
+<td>260</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_monzaedellabrianza.html">Monza e della Brianza</a><b></b></b></td>
+<td>422.740</td>
+<td>441.817</td>
+<td>864.557</td>
+<td>188</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_napoli.html">Napoli</a><b></b></b></td>
+<td>1.509.740</td>
+<td>1.608.409</td>
+<td>3.118.149</td>
+<td>476</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_novara.html">Novara</a><b></b></b></td>
+<td>179.955</td>
+<td>191.463</td>
+<td>371.418</td>
+<td>162</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_nuoro.html">Nuoro</a><b></b></b></td>
+<td>77.850</td>
+<td>80.563</td>
+<td>158.413</td>
+<td>69</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_oristano.html">Oristano</a><b></b></b></td>
+<td>79.931</td>
+<td>82.712</td>
+<td>162.643</td>
+<td>55</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_padova.html">Padova</a><b></b></b></td>
+<td>456.229</td>
+<td>482.067</td>
+<td>938.296</td>
+<td>309</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_palermo.html">Palermo</a><b></b></b></td>
+<td>617.313</td>
+<td>659.212</td>
+<td>1.276.525</td>
+<td>289</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_parma.html">Parma</a><b></b></b></td>
+<td>216.110</td>
+<td>229.284</td>
+<td>445.394</td>
+<td>207</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_pavia.html">Pavia</a><b></b></b></td>
+<td>266.468</td>
+<td>282.254</td>
+<td>548.722</td>
+<td>232</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_perugia.html">Perugia</a><b></b></b></td>
+<td>319.220</td>
+<td>344.935</td>
+<td>664.155</td>
+<td>269</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_pesarourbino.html">Pesaro Urbino</a><b></b></b></td>
+<td>176.768</td>
+<td>186.585</td>
+<td>363.353</td>
+<td>142</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_pescara.html">Pescara</a><b></b></b></td>
+<td>155.239</td>
+<td>167.520</td>
+<td>322.759</td>
+<td>106</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_piacenza.html">Piacenza</a><b></b></b></td>
+<td>140.027</td>
+<td>147.986</td>
+<td>288.013</td>
+<td>134</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_pisa.html">Pisa</a><b></b></b></td>
+<td>204.631</td>
+<td>217.185</td>
+<td>421.816</td>
+<td>145</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_pistoia.html">Pistoia</a><b></b></b></td>
+<td>140.345</td>
+<td>152.164</td>
+<td>292.509</td>
+<td>106</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_pordenone.html">Pordenone</a><b></b></b></td>
+<td>153.610</td>
+<td>160.362</td>
+<td>313.972</td>
+<td>134</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_potenza.html">Potenza</a><b></b></b></td>
+<td>183.661</td>
+<td>191.653</td>
+<td>375.314</td>
+<td>113</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_prato.html">Prato</a><b></b></b></td>
+<td>122.927</td>
+<td>130.060</td>
+<td>252.987</td>
+<td>74</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_ragusa.html">Ragusa</a><b></b></b></td>
+<td>157.144</td>
+<td>161.839</td>
+<td>318.983</td>
+<td>55</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_ravenna.html">Ravenna</a><b></b></b></td>
+<td>189.719</td>
+<td>202.278</td>
+<td>391.997</td>
+<td>205</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_reggiocalabria.html">Reggio Calabria</a><b></b></b></td>
+<td>271.158</td>
+<td>286.835</td>
+<td>557.993</td>
+<td>199</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_reggioemilia.html">Reggio Emilia</a><b></b></b></td>
+<td>261.508</td>
+<td>271.740</td>
+<td>533.248</td>
+<td>188</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_rieti.html">Rieti</a><b></b></b></td>
+<td>78.083</td>
+<td>80.898</td>
+<td>158.981</td>
+<td>67</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_rimini.html">Rimini</a><b></b></b></td>
+<td>161.674</td>
+<td>173.525</td>
+<td>335.199</td>
+<td>113</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_roma.html">Roma</a><b></b></b></td>
+<td>2.081.773</td>
+<td>2.260.273</td>
+<td>4.342.046</td>
+<td>1.200</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_rovigo.html">Rovigo</a><b></b></b></td>
+<td>117.659</td>
+<td>124.874</td>
+<td>242.533</td>
+<td>69</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_salerno.html">Salerno</a><b></b></b></td>
+<td>540.543</td>
+<td>567.966</td>
+<td>1.108.509</td>
+<td>296</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_sassari.html">Sassari</a><b></b></b></td>
+<td>163.257</td>
+<td>171.458</td>
+<td>334.715</td>
+<td>82</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_savona.html">Savona</a><b></b></b></td>
+<td>134.836</td>
+<td>147.771</td>
+<td>282.607</td>
+<td>143</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_siena.html">Siena</a><b></b></b></td>
+<td>129.575</td>
+<td>140.710</td>
+<td>270.285</td>
+<td>139</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_siracusa.html">Siracusa</a><b></b></b></td>
+<td>199.442</td>
+<td>205.669</td>
+<td>405.111</td>
+<td>82</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_sondrio.html">Sondrio</a><b></b></b></td>
+<td>89.012</td>
+<td>93.074</td>
+<td>182.086</td>
+<td>73</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_sudsardegna.html">Sud Sardegna</a><b></b></b></td>
+<td>176.578</td>
+<td>179.436</td>
+<td>356.014</td>
+<td>103</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_taranto.html">Taranto</a><b></b></b></td>
+<td>284.930</td>
+<td>303.437</td>
+<td>588.367</td>
+<td>121</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_teramo.html">Teramo</a><b></b></b></td>
+<td>151.926</td>
+<td>159.242</td>
+<td>311.168</td>
+<td>97</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_terni.html">Terni</a><b></b></b></td>
+<td>109.967</td>
+<td>120.640</td>
+<td>230.607</td>
+<td>105</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_torino.html">Torino</a><b></b></b></td>
+<td>1.105.608</td>
+<td>1.186.111</td>
+<td>2.291.719</td>
+<td>662</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_trapani.html">Trapani</a><b></b></b></td>
+<td>212.856</td>
+<td>223.440</td>
+<td>436.296</td>
+<td>123</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_trento.html">Trento</a><b></b></b></td>
+<td>262.556</td>
+<td>274.860</td>
+<td>537.416</td>
+<td>224</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_treviso.html">Treviso</a><b></b></b></td>
+<td>434.261</td>
+<td>453.032</td>
+<td>887.293</td>
+<td>300</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_trieste.html">Trieste</a><b></b></b></td>
+<td>112.172</td>
+<td>123.901</td>
+<td>236.073</td>
+<td>163</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_udine.html">Udine</a><b></b></b></td>
+<td>259.397</td>
+<td>276.783</td>
+<td>536.180</td>
+<td>223</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_varese.html">Varese</a><b></b></b></td>
+<td>432.704</td>
+<td>457.530</td>
+<td>890.234</td>
+<td>283</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_venezia.html">Venezia</a><b></b></b></td>
+<td>414.708</td>
+<td>443.490</td>
+<td>858.198</td>
+<td>293</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_verbanocusioossola.html">Verbano-Cusio-Ossola</a><b></b></b></td>
+<td>77.668</td>
+<td>83.215</td>
+<td>160.883</td>
+<td>70</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_vercelli.html">Vercelli</a><b></b></b></td>
+<td>84.877</td>
+<td>91.244</td>
+<td>176.121</td>
+<td>68</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_verona.html">Verona</a><b></b></b></td>
+<td>451.585</td>
+<td>472.079</td>
+<td>923.664</td>
+<td>289</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_vibovalentia.html">Vibo Valentia</a><b></b></b></td>
+<td>80.310</td>
+<td>82.758</td>
+<td>163.068</td>
+<td>50</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_vicenza.html">Vicenza</a><b></b></b></td>
+<td>427.609</td>
+<td>442.109</td>
+<td>869.718</td>
+<td>262</td>
+</tr>
+<tr>
+<td><b><a href="/ita/province/provincia_di_viterbo.html">Viterbo</a><b></b></b></td>
+<td>156.952</td>
+<td>165.003</td>
+<td>321.955</td>
+<td>71</td>
+</tr>
+</table>
+</p>
+</div>
+</div>
+</div>
+<!--Edit Sidebar Content here-->
+<div class="span2">
+<div id="stickyunit">
+<style type="text/css">
+.adslot_1 { display:inline-block; width: 160px; height: 600px; }
+@media (max-width: 1023px) { .adslot_1 { display: none; } }
+</style>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Finca_Destra_Fixed_italia_Ita -->
+<ins class="adsbygoogle adslot_1" data-ad-client="ca-pub-0386573283680911" data-ad-slot="3967221914"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div>
+<!--/End Sidebar Content -->
+<!--/End Main Content Area here-->
+</div>
+</div>
+<div id="footerInnerSeparator"></div>
+</div>
+</div>
+<div id="footerOuterSeparator"></div>
+<div class="footerArea" id="divFooter">
+<div class="divPanel">
+<div class="row-fluid">
+<div class="span6" id="footerArea1">
+<h3>Reti e Sistemi S.r.l.</h3>
+<p>Fondata nell'anno 2000 da un gruppo di professionisti con esperienza decennale nell'Information Technology la <a href="https://www.retiesistemi.it" target="_new">Reti e Sistemi S.r.l.</a> Ã¨ in grado di soddisfare le piÃ¹ varie esigenze informatiche dei suoi stimati Clienti.</p>
+<p>
+<ul id="contact-link">
+<li><i class="icon-share-alt icon-large"></i> <a href="/ita/contatti/contatti.html">Contatti</a></li>
+<li><i class="icon-share-alt icon-large"></i> <a href="/ita/servizi/servizi.html">PubblicitÃ </a></li>
+<li><i class="icon-share-alt icon-large"></i> <a href="/ita/mailinglist/mailinglist.html">Mailing List</a></li>
+<li><i class="icon-share-alt icon-large"></i> <a href="/ita/disclaimer/disclaimer.html">Disclaimer</a></li>
+<li><i class="icon-share-alt icon-large"></i> <a href="/ita/privacy/privacy.html">Privacy</a></li>
+</ul>
+</p>
+</div>
+<div class="span6" id="footerArea2">
+<h3>Informazioni</h3>
+<ul id="contact-info">
+<li>
+<i class="general foundicon-phone icon"></i>
+<span class="field">Telefono:</span> <a href="/ita/contatti/contatti.html">Contatti</a>
+</li>
+<li>
+<i class="general foundicon-mail icon"></i>
+<span class="field">Email:</span> <a href="mailto:info@italia.indettaglio.it" title="Email">info@italia.indettaglio.it</a>
+</li>
+<li>
+<i class="general foundicon-home icon" style="margin-bottom:50px"></i>
+<span class="field">Indirizzo:</span> Via Giuseppe La Grutta n. 4
+</li>
+<li>
+<i style="margin-right:37px"></i>91100 Trapani (Tp) Italia
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span12">
+<p class="social">
+<ul class="social_left">
+<li class="social foundicon-facebook"><a href="https://www.facebook.com/Italia.indettaglio.it" target="_blank"> Facebook</a></li>
+<li class="social foundicon-twitter"><a href="https://twitter.com/Indettaglio_it" target="_blank"> Twitter</a></li>
+<li class="social foundicon-linkedin"><a href="https://www.linkedin.com/company/reti-e-sistemi-s-r-l-" target="_blank"> LinkedIn</a></li>
+</ul></p>
+<p class="copyright">Copyright © 2000 - 2025 - Reti e Sistemi, Via Giuseppe La Grutta n. 4 Trapani - P.IVA 01961150818.</p>
+</div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="/js/jquery.scrollToTop.min.js"></script>
+<script type="text/javascript">
+$(function() {
+$("#toTop").scrollToTop(1000);
+});
+</script>
+<script src="/scripts/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="/scripts/default.js" type="text/javascript"></script>
+</body>
+</html>
