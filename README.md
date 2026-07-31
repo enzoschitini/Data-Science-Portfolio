@@ -810,4 +810,4 @@ Esse vídeo não só conta uma história emocional que conecta diretamente com o
 
 ![img](img/slide/Frame.png)
 
-## [Enzo Schitini](www.linkedin.com/in/enzoschitini)
+## [Enzo Schitini](https://www.linkedin.com/in/enzoschitini)
