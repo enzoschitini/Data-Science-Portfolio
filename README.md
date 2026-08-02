@@ -1,4 +1,4 @@
-### [ACESSE O PROJETO >>>](https://www.kaggle.com/code/enzoschitini/sinasc-estado-de-rond-nia-em-2019#Projeto-de-An%C3%A1lise-e-Ci%C3%AAncia-de-Dados-com-Machine-Learning)
+### [ACESSE O PROJETO >>>](https://github.com/enzoschitini/Data-Science-Portfolio/blob/Sinasc/Sinasc.ipynb)
 
 ![img](image/Copetina.png)
 
@@ -8,14 +8,13 @@
 ---
 ## **Quase 12% dos partos registrados no estado de Rondônia em 2019 foram adolescentes grávidas com marido maior de idade!**
 
-*Diz algorítimo de Machine Learning • 03 Junho 2024*
 Uma pesquisa abrangente sobre tendências demográficas e de saúde em 2019 no estado de Rondônia, no Brasil. Comecemos por analisar os dados do sistema de informação sobre nascidos vivos (SINASC), o objetivo é realizar uma análise aprofundada do tema, este projeto visa encontrar ideias e responder a uma série de questões cruciais.
 
 **Data Science** Portfólio | *27 Abril 2024* - *03 junho 2024*
 
-[Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
+[Enzo Schitini](https://www.linkedin.com/in/enzoschitini/)
 
-### • [GitHub](https://github.com/enzoschitini/Data-Science-Portfolio/blob/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/Sinasc/Sinasc.ipynb)
+### • [GitHub](https://github.com/enzoschitini/Data-Science-Portfolio/blob/Sinasc/Sinasc.ipynb)
 ### • [Kaggle - 🤰 Sinasc • Estado de Rondônia em 2019](https://www.kaggle.com/code/enzoschitini/sinasc-estado-de-rond-nia-em-2019#Projeto-de-An%C3%A1lise-e-Ci%C3%AAncia-de-Dados-com-Machine-Learning)
 ### • [Artigo no Linkedin](https://www.linkedin.com/pulse/sinasc-sistema-de-informa%2525C3%2525A7%2525C3%2525A3o-sobre-nascidos-vivos-enzo-schitini-vvvsc/?trackingId=tuJlf8rZRkOGZK96w9J2TA%3D%3D)
 
@@ -480,4 +479,4 @@ A situação de adolescentes grávidas com homens mais velhos é um desafio mult
 - **Saúde do bebê:** Quantas crianças que tiveram um APGAR1 baixo se recuperaram tendo um APGAR5 médio ou alto?
 - **APGAR1:** Entendemos que é difícil ter um APGAR1 alto, o que quem consegue tem em comum?
 
-Link do projeto no Kaggle: [🤰 Sinasc • Estado de Rondônia em 2019 (](https://www.kaggle.com/code/enzoschitini/sinasc-estado-de-rond-nia-em-2019)[kaggle.com](http://kaggle.com/)[)](https://www.kaggle.com/code/enzoschitini/sinasc-estado-de-rond-nia-em-2019)
+Link do projeto no Kaggle: [🤰 Sinasc • Estado de Rondônia em 2019 (](https://www.kaggle.com/code/enzoschitini/sinasc-estado-de-rond-nia-em-2019)
