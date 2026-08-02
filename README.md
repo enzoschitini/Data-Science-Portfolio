@@ -38,7 +38,7 @@ Se você quiser ver a análise completa você pode encontrar as informações ne
 - [1. Exploratory Data Analysis (EDA)](https://github.com/enzoschitini/Data-Science-Portfolio/blob/Marketing-Campaign-Optimization/1.%20Exploratory%20Data%20Analysis%20(EDA).ipynb)
 - [2. Descriptive analysis](https://github.com/enzoschitini/Data-Science-Portfolio/blob/Marketing-Campaign-Optimization/2.%20Descriptive%20analysis.ipynb)
 - [3. K-Means Clustering Algorithm](https://github.com/enzoschitini/Data-Science-Portfolio/blob/Marketing-Campaign-Optimization/3.%20K-Means%20Clustering%20Algorithm.ipynb)
-- [4. Cluster Analysis Insights](https://github.com/enzoschitini/Backup-Folder/blob/CustomerPersonalityAnalysis/4.%20Cluster%20Analysis%20Insights.ipynb)
+- [4. Cluster Analysis Insights](https://github.com/enzoschitini/Data-Science-Portfolio/blob/Marketing-Campaign-Optimization/4.%20Cluster%20Analysis%20Insights.ipynb)
 - [5. Marketing campaign optimization](https://github.com/enzoschitini/Data-Science-Portfolio/blob/Marketing-Campaign-Optimization/5.%20Marketing%20campaign%20optimization.ipynb)
 
 ### Importância do Projeto:
@@ -63,7 +63,6 @@ A metodologia a ser utilizada envolve diversas etapas: limpeza e pré-processame
 
 
 ## Enzo Schitini
-### Data Scientist & Data Analyst • Senior Bubble Developer • SQL • Ux/Ui Design
 
 ![img](img/slide/Profile.png)
 
@@ -811,24 +810,4 @@ Esse vídeo não só conta uma história emocional que conecta diretamente com o
 
 ![img](img/slide/Frame.png)
 
-# Sugestões:
-
-### [💳 Credit Card Approval Prediction](https://www.kaggle.com/code/enzoschitini/credit-card-approval-prediction)
-
-### [🛒 Brazilian E-Commerce Analysis - Olist](https://www.kaggle.com/code/enzoschitini/brazilian-e-commerce-analysis-olist)
-
-### [🤰 Sinasc • Estado de Rondônia em 2019](https://www.kaggle.com/code/enzoschitini/sinasc-estado-de-rond-nia-em-2019)
-
-### [📕 Ensemble Techniques (Bagging & Boosting)](https://www.kaggle.com/code/enzoschitini/ensemble-techniques-bagging-boosting)
-
-
----
-
-
-![img](img/slide/Frame.png)
-
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQGKyH2VYxJFNw/profile-displayphoto-shrink_200_200/B4DZR3AMiKHkAc-/0/1737163329100?e=1742428800&v=beta&t=g3jnt105dxEQvOyv2XAy6EJjviKfFrw1yH61s28JqYk" alt="capa" width="100">
-
-## [Enzo Schitini](www.linkedin.com/in/enzoschitini)
-### Data Scientist & Data Analyst • Senior Bubble Developer • SQL • Ux/Ui Design 
-[*@ Scituffy Founder*](https://scituffy.bubbleapps.io/version-test/index/home)
+## [Enzo Schitini](https://www.linkedin.com/in/enzoschitini)
