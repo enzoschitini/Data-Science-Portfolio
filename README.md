@@ -24,8 +24,6 @@ Uma pesquisa abrangente sobre tendências demográficas e de saúde em 2019 no e
 
 O meu objetivo era realizar uma análise aprofundada do tema, encontrar padrões nos dados e conectar à realidade. Definitivamente um dos projetos em que mais me esforcei para obter bons resultados, espero que você, assim como eu, ache interessante.
 
-Link do projeto no Kaggle com os códigos: [🤰 Sinasc • Estado de Rondônia em 2019 (](https://www.kaggle.com/code/enzoschitini/sinasc-estado-de-rond-nia-em-2019)[kaggle.com](http://kaggle.com/)[)](https://www.kaggle.com/code/enzoschitini/sinasc-estado-de-rond-nia-em-2019)
-
 ---
 
 ![](https://media.licdn.com/dms/image/v2/D4D12AQH4GQbvIhIgWg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721194113117?e=1735776000&v=beta&t=wMGiFS3JWy09TtaegcOaM3fYm-CSOw2FqrOv-funOnQ)
@@ -479,4 +477,4 @@ A situação de adolescentes grávidas com homens mais velhos é um desafio mult
 - **Saúde do bebê:** Quantas crianças que tiveram um APGAR1 baixo se recuperaram tendo um APGAR5 médio ou alto?
 - **APGAR1:** Entendemos que é difícil ter um APGAR1 alto, o que quem consegue tem em comum?
 
-Link do projeto no Kaggle: [🤰 Sinasc • Estado de Rondônia em 2019 (](https://www.kaggle.com/code/enzoschitini/sinasc-estado-de-rond-nia-em-2019)
+Link do projeto no Kaggle: [🤰 Sinasc • Estado de Rondônia em 2019](https://www.kaggle.com/code/enzoschitini/sinasc-estado-de-rond-nia-em-2019)
