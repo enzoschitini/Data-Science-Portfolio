@@ -60,7 +60,7 @@ Os dados utilizados neste projeto foram extraídos do portal do governo, mais pr
 
 O conjunto de dados pode ser encontrado no site do governo brasileiro e segue políticas de privacidade, o que significa que não há nomes de pessoas ou qualquer coisa que nos permita saber quem são os indivíduos.
 
-![](https://media.licdn.com/dms/image/v2/D5612AQE76Xz3ennuWg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721183271678?e=1735776000&v=beta&t=32OR12vK97itnlRHz60ogvc_GfHg3Dh-SvHGZCgr00Q)
+![](https://media.licdn.com/dms/image/v2/D5612AQE76Xz3ennuWg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721183271678?e=1787184000&v=beta&t=--t9gVqoVM2y300u-OY8qP1catScxkfo8YMkQEbJas8)
 
 ### Metodologia
 
@@ -74,17 +74,17 @@ Ao fornecer uma visão detalhada sobre os nascimentos, este projeto contribui pa
 
 ## 🔥 Vamos começar!!!
 
-![](https://media.licdn.com/dms/image/v2/D5612AQGTWZtZzbXyHA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721195567492?e=1735776000&v=beta&t=9vLZBrov8c6Xs2WIlOg6pPPmMZFU5lhejHq_a9XbDto)
+![](https://media.licdn.com/dms/image/v2/D5612AQGTWZtZzbXyHA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721195567492?e=1787184000&v=beta&t=7rH_uyOVjmfV4fdyrXsjlsTvTYN1Jbrgvxr5FLGfzns)
 
 ## Como a análise será realizada:
 
-![](https://media.licdn.com/dms/image/v2/D5612AQEyNedMIW7yaQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1721179457444?e=1735776000&v=beta&t=lX72CYo5yDTjJmgFN5Nj7aH7UcsKH9y-gIK87v4TLkE)
+![](https://media.licdn.com/dms/image/v2/D5612AQEyNedMIW7yaQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1721179457444?e=1787184000&v=beta&t=RJ2jKu1RzCrffduf-_3NSs8JW2sB3vkP7zXcTjye1yk)
 
 ## O rosto da sociedade
 
 ### Nascimentos no ano de 2019:
 
-![](https://media.licdn.com/dms/image/v2/D5612AQEACiw9c_fGEw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721178996817?e=1735776000&v=beta&t=VINzROK-UnpHQz-y9qwmnIh5qViBVjT2GcynUUAXih8)
+![](https://media.licdn.com/dms/image/v2/D5612AQEACiw9c_fGEw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721178996817?e=1787184000&v=beta&t=2d75GiH8b5qe33o5BWTSEs-5m_FV_WVEoPo76BLK7CI)
 
 O gráfico mostra a quantidade de nascimentos ao longo do ano de 2019 em Rondônia. O gráfico apresenta flutuações ao longo do ano, com vários picos e vales. Isso sugere que a quantidade de nascimentos variou mês a mês. Os meses com os maiores picos podem indicar períodos de maior atividade de nascimentos, enquanto os vales podem representar momentos de menor atividade.
 
@@ -95,13 +95,13 @@ O gráfico mostra a quantidade de nascimentos ao longo do ano de 2019 em Rondôn
 
 ### Nascimentos por sexo do bebê:
 
-![](https://media.licdn.com/dms/image/v2/D5612AQFoVLVaFlSZpQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721194112669?e=1735776000&v=beta&t=jcRi9eKZX1OPqC_VRxENsYW0QjTSoTPsU9c3-kVWNRQ)
+![](https://media.licdn.com/dms/image/v2/D5612AQFoVLVaFlSZpQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721194112669?e=1787184000&v=beta&t=MmY9OzHFryp3zO0GNPz77a7ODiqNOyCWR82uP5i3isA)
 
 - **Comparação:** Comparando as duas linhas, podemos ver que, em geral, a quantidade de nascimentos de meninas parece ser ligeiramente maior do que a de meninos. Essa diferença pode ser explorada em análises mais detalhadas.
 
 ### Codições sociorraciais dos bebês:
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQESVFEcyXtZhA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205453013?e=1735776000&v=beta&t=wM2QejL-7iM-ZpusetOoIfOARhVGDPJqq0hwKH1Ax_w)
+![](https://media.licdn.com/dms/image/v2/D4D12AQESVFEcyXtZhA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205453013?e=1787184000&v=beta&t=s2gkFmh0XKBX6lxN6gfYAdpSwI0cMrdDVq_AptGIv3A)
 
 A população é um aspecto fundamental para entender a dinâmica de uma região. Com base no gráfico, podemos observar a composição racial dos bebês nascidos em Rondônia no ano de 2019.
 
@@ -114,7 +114,7 @@ Essa distribuição racial pode fornecer insights importantes para políticas p�
 
 ### Distribuição da escolaridade da mãe de acordo com o tom de pele do bebê:
 
-![](https://media.licdn.com/dms/image/v2/D5612AQGmUBAx3l9JaQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721179913605?e=1735776000&v=beta&t=x_euBmMa7x1an_SKTg-MnsEdO2UG1ZqiuJfvIFkIk1s)
+![](https://media.licdn.com/dms/image/v2/D5612AQGmUBAx3l9JaQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721179913605?e=1787184000&v=beta&t=l5VkS7zGfdRJe5x1UsB2JGMrD9qFnAhhl8cbZ-CP6OM)
 
 O gráfico mostra a distribuição da escolaridade das mães de acordo com o tom de pele dos bebês nascidos no estado.
 
@@ -124,7 +124,7 @@ Esses dados são relevantes para entender as desigualdades educacionais e suas i
 
 ### Sexo do bebê:
 
-![](https://media.licdn.com/dms/image/v2/D5612AQEwlWHndKHVrg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721179021533?e=1735776000&v=beta&t=R-MIrewEPiTWukzq2Xhkv9q0gUK_A1wp-3GeINMfTz8)
+![](https://media.licdn.com/dms/image/v2/D5612AQEwlWHndKHVrg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721179021533?e=1787184000&v=beta&t=JDXWmyGuDvzO0Kyh1uKdr7ovBuRVRKcTrL2VfsKD3s0)
 
 A distribuição do sexo dos bebês em relação à escolaridade das mães é um aspecto interessante para análise:
 
@@ -135,7 +135,7 @@ Em resumo, com base nos dados apresentados, não parece haver uma correlação f
 
 ### Quantidade total de filhos:
 
-![](https://media.licdn.com/dms/image/v2/D5612AQGw7pC-0J7eVQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721179037276?e=1735776000&v=beta&t=XPadSBElb3C1U2fU6GOCKDJm3XMMPO6SlZLTJq61hmk)
+![](https://media.licdn.com/dms/image/v2/D5612AQGw7pC-0J7eVQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721179037276?e=1787184000&v=beta&t=JrxwNNMvmBXNL53hlh0yKyU2lNEIrIul810rMKLO2j4)
 
 Com base no gráfico, podemos observar a distribuição da quantidade de filhos na população de Rondônia, em 2019. Podemos destacar como principais insights:
 
@@ -149,13 +149,13 @@ Esses dados podem ser úteis para o planejamento de políticas públicas, podemo
 
 ### Média da quantidade total de filhos vivos Vs Raça do bebê:
 
-![](https://media.licdn.com/dms/image/v2/D5612AQGGt3K6Mjp3pQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721179695295?e=1735776000&v=beta&t=M_Q-FPndY6kFToJHNnxUaRsLBE33K0cYpOCJDWlHO3k)
+![](https://media.licdn.com/dms/image/v2/D5612AQGGt3K6Mjp3pQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721179695295?e=1787184000&v=beta&t=8hZwj-T75A72C82hwdJNAOe9J9nxJnsM20-NlmLxauk)
 
 Primeiramente, observamos que mães **indígenas** têm a maior média de filhos vivos, com aproximadamente **3 filhos**. Em contraste, mães **brancas** têm a menor média, chegando a cerca de **2 filhos**.
 
 ### Média da quantidade total de filhos mortos Vs Raça do bebê:
 
-![](https://media.licdn.com/dms/image/v2/D5612AQEoLQTHdLF9Vw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721194858829?e=1735776000&v=beta&t=Ab28hjWYzEM5RZFglgXT1mizwfBGcssFLqLBGU-0KnI)
+![](https://media.licdn.com/dms/image/v2/D5612AQEoLQTHdLF9Vw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721194858829?e=1787184000&v=beta&t=J2x6zKsk1OjBGtNf_7j_0WsW-Tkg1j4FW1xl9UMOKvA)
 
 A média do número total de filhos mortos com base na raça dos bebês em Rondônia. Aqui estão algumas observações importantes:
 
@@ -165,7 +165,7 @@ A média do número total de filhos mortos com base na raça dos bebês em Rond�
 
 ### Média da quantidade total de filhos Vs Escolaridade da mãe:
 
-![](https://media.licdn.com/dms/image/v2/D5612AQHZvYU3aDxbyQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721189347202?e=1735776000&v=beta&t=gHaxCRaVxnCrhNysQxfKic5P3FiOajVDxoxosuuqRpo)
+![](https://media.licdn.com/dms/image/v2/D5612AQHZvYU3aDxbyQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721189347202?e=1787184000&v=beta&t=9wpFaYDAhetyLmkp978TVkUwpzY3oiS344otxF6grQc)
 
 1. **Tendência Decrescente:** O gráfico mostra uma tendência decrescente na média da quantidade total de filhos à medida que a escolaridade da mãe aumenta. Isso sugere que mães com maior nível educacional tendem a ter famílias menores.
 2. **Educação e Planejamento Familiar:** A correlação entre escolaridade e número de filhos pode estar relacionada ao planejamento familiar. Mães com maior educação podem ter acesso a informações sobre contracepção e planejamento familiar, o que pode influenciar suas decisões reprodutivas.
@@ -176,7 +176,7 @@ Em resumo, o gráfico destaca a importância da educação materna como um fator
 
 ### Média da quantidade total de filhos mortos Vs Escolaridade da mãe:
 
-![](https://media.licdn.com/dms/image/v2/D5612AQGoR3e86vm6WQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721180063186?e=1735776000&v=beta&t=ku_V7im7dI74tBszNOZZR6Eq3VKh-H88_qIde1cpNZc)
+![](https://media.licdn.com/dms/image/v2/D5612AQGoR3e86vm6WQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721180063186?e=1787184000&v=beta&t=10oFgRT7yyBrzvIEBZXo_dnpwlrhPmECN5TE9PkohLE)
 
 1. **Tendência Decrescente:** O gráfico mostra uma tendência decrescente na média da quantidade total de filhos mortos à medida que a escolaridade da mãe aumenta. Isso sugere que mães com maior nível educacional tendem a ter famílias com menor número de filhos que faleceram.
 2. **Educação e Mortalidade Infantil:** A correlação negativa entre escolaridade e mortalidade infantil pode ser crucial para entender os fatores de risco. Mães com maior educação podem ter acesso a informações sobre cuidados pré-natais, vacinação e prevenção de doenças, o que pode reduzir a mortalidade infantil.
@@ -189,7 +189,7 @@ Em resumo, o gráfico destaca a importância da educação materna como um fator
 
 ### Com base na raça e cor de pele:
 
-![](https://media.licdn.com/dms/image/v2/D5612AQH786V1dowXcQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721198172927?e=1735776000&v=beta&t=olkRpSUNbbmhpszFhgFFP_BAxvcaR4pFruzQhIrYK3g)
+![](https://media.licdn.com/dms/image/v2/D5612AQH786V1dowXcQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721198172927?e=1787184000&v=beta&t=ElSMWE8tLs04lTR1Dpzp1OP3pLObTXwd6Q5bzSBX0qw)
 
 1. **Distribuição por Idade:** O gráfico mostra a distribuição de partos com base na idade das mães. A maioria das mulheres fica grávida entre 20 e 34 anos, independentemente da raça.
 2. **Raça e Idade das Mães:** As mulheres brancas lideram as gravidezes acima dos 35 anos, com 18% dos casos nessa idade. As mulheres pretas e pardas também têm índices significativos de gravidez após os 35 anos (15,9% e 13,9%, respectivamente).
@@ -198,7 +198,7 @@ Em resumo, o gráfico destaca a importância da educação materna como um fator
 
 ### Comparando a idade da mãe e do pai:
 
-![](https://media.licdn.com/dms/image/v2/D5612AQHQoxh2dKHEWA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721181277336?e=1735776000&v=beta&t=349S_cNAzPQHpLKX7mGddPkcnd-81zJh03HHhURJH-0)
+![](https://media.licdn.com/dms/image/v2/D5612AQHQoxh2dKHEWA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721181277336?e=1787184000&v=beta&t=D7H30KltMW8SglfxboSS1KqCwj9s0VLaIsWajgoP5ic)
 
 Através do gráfico da pirâmide etária que compara a distribuição de pais e mães em diferentes faixas etárias, podemos obter vários insights:
 
@@ -213,7 +213,7 @@ Este gráfico oferece uma visão clara de quando as pessoas tendem a se tornar p
 
 ### Diferença média baseada na idade média da mãe:
 
-![](https://media.licdn.com/dms/image/v2/D5612AQGurIbE7kVYoA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721180099957?e=1735776000&v=beta&t=EZ9hHqk1sIOUZkFOyxGTg54DbeFpsTe1n7TejTMgJAM)
+![](https://media.licdn.com/dms/image/v2/D5612AQGurIbE7kVYoA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721180099957?e=1787184000&v=beta&t=WZdgBw3YBKGkRdeJpGzFrk8JhA9TxUrsd22SfjJpc6U)
 
 1. **Variação com a Idade da Mãe:** O gráfico mostra uma relação interessante entre a idade média da mãe e a diferença média de idade entre ela e o marido. A diferença média de idade começa em torno de 6 anos quando a mãe tem 15 anos, aumenta ligeiramente à medida que a idade média da mãe aumenta para 20 anos e, em seguida, diminui constantemente até atingir o ponto mais baixo em torno dos 35 anos de idade média da mãe. Após esse ponto, há um aumento acentuado na diferença média de idade à medida que a idade média da mãe aumenta para 50 anos.
 2. **Tendências Demográficas:** Essa curva em forma de U sugere que pode haver diferenças maiores nas idades dos cônjuges quando as mães são muito jovens ou mais velhas. As razões para essas variações podem incluir fatores sociais, culturais, biológicos e preferências individuais.
@@ -223,7 +223,7 @@ Em resumo, o gráfico nos ajuda a entender como a diferença de idade entre côn
 
 ### Escolaridade da mãe Vs diferença de idade entre ela e o marido:
 
-![](https://media.licdn.com/dms/image/v2/D5612AQG2RZZG3kEK2A/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721199140423?e=1735776000&v=beta&t=rLxk44OwxS3BGALXpaGh48wPsFCiz2d2_fe3pxvybog)
+![](https://media.licdn.com/dms/image/v2/D5612AQG2RZZG3kEK2A/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721199140423?e=1787184000&v=beta&t=FELViay64qrhE_ngVvPkisnayknlCyMkyzO6Zo7YV8c)
 
 1. **Tendência Decrescente:** O gráfico mostra uma tendência decrescente na diferença média de idade entre a mãe e o marido à medida que a escolaridade da mãe aumenta. Isso sugere que, em média, casais com mães mais educadas tendem a ter uma diferença menor de idade entre eles.
 2. **Educação e Relacionamentos:** A correlação negativa entre escolaridade da mãe e diferença de idade pode estar relacionada a fatores como valores, interesses e estilo de vida. Casais com níveis educacionais semelhantes podem compartilhar mais experiências e ter objetivos de vida mais alinhados.
@@ -242,30 +242,30 @@ Treinaremos um algoritmo de aprendizado de máquina com os 29% dos dados que ain
 
 ### Primeiro, tentamos encontrar algumas métricas com os dados que temos (os 29%):
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQE7U9FlfjoK8g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721209095060?e=1735776000&v=beta&t=MD1MX0ZASZnyE6B8J_g-SUvf1cEHr0BTdzDtf7vVNiI)
+![](https://media.licdn.com/dms/image/v2/D4D12AQE7U9FlfjoK8g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721209095060?e=1787184000&v=beta&t=rhqBdhZJvH4_FGmpeP3c9esmohxUYznnqq2CCuF4zoI)
 
 ### Idade média da mãe e do pai & Média da diferença
 
 Média idade mãe: 26.93, Média idade pai: 31.03, Média da diferença: 5.5
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQH5V-AZdAnOZA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721203182597?e=1735776000&v=beta&t=_u1Jv4j2jhs8AHkgdMGRaBSLDVZn8_B6q7gzCoDtE70)
+![](https://media.licdn.com/dms/image/v2/D4D12AQH5V-AZdAnOZA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721203182597?e=1787184000&v=beta&t=f8kEUicYDUf3M9RAPumKj9G4OwaibG1Jc2qQG3b2PC8)
 
 ### Idade média da mãe e do pai & Média da diferença (Entre as mães menores de idade
 
 Média idade mãe: 16.9, Média idade pai: 23.96, Média da diferença: 7.06
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQG1fUFd9E3Hhg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205823198?e=1735776000&v=beta&t=Q9w5GaYxXsKgjG6M7_vAzxbJgFBv0YAF-FRm6A5gEyg)
+![](https://media.licdn.com/dms/image/v2/D4D12AQG1fUFd9E3Hhg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205823198?e=1787184000&v=beta&t=KvESRL30f2M-uTemE_IsrM_9JdTPfUCNQCY7KnlkuOg)
 
 ### Mães antes dos 18 - Quantidade de Registros e Diferença média de idade entre a mãe e o pai
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQEP2XKJOO9P2w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721206088544?e=1735776000&v=beta&t=J8NZidCpGgqKGBhBVv3inDCJJGmbuslvaFBqwTw7IH0)
+![](https://media.licdn.com/dms/image/v2/D4D12AQEP2XKJOO9P2w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721206088544?e=1787184000&v=beta&t=Vt5zcoqs13TWrDYQ-R8oiS-MCH5BEDXhNGhlz8dfxWs)
 
 1. **Quantidade de Registros:** A maioria das mães que tiveram filhos antes dos 18 anos está na faixa etária de 15 a 17 anos. O número de registros diminui à medida que a idade da mãe diminui (13 e 14 anos) e aumenta à medida que a idade da mãe aumenta (16 e 17 anos).
 2. **Diferença Média de Idade entre a Mãe e o Pai:** A diferença média de idade entre a mãe e o pai varia com base na idade da mãe. Que diminue à medida que a idade da mãe aumenta.
 
 ### Comparação da idade do pai maior de idade e com mãe menor de idade
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQGlXsH4zLxz5g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205254834?e=1735776000&v=beta&t=TqdXtg6a3aSYkm3Kn96xC9D-_zJFVdhabepUNfhzrOA)
+![](https://media.licdn.com/dms/image/v2/D4D12AQGlXsH4zLxz5g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205254834?e=1787184000&v=beta&t=HgAIh2VPjgK4SEbLvCOJS-Jo4ogLjG7OgjRf0e9qMRE)
 
 ### Com base no gráfico, podemos observar a distribuição das idades dos pais
 
@@ -279,7 +279,7 @@ Em resumo, os gráficos nos ajuda a entender como a gravidez na adolescência se
 
 ### Diferença média de idade entre mãe e pai por raça
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQFL1e9JrGdfHw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721208431911?e=1735776000&v=beta&t=sSjDnNvflDmU56eiEQT73yc6WtVXpUkDresiyqB1UAo)
+![](https://media.licdn.com/dms/image/v2/D4D12AQFL1e9JrGdfHw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721208431911?e=1787184000&v=beta&t=_FuI3ixp9vuwq3QLRYeBmxBe3fL2cWsvDkQsxzxjqLE)
 
 Com base no gráfico, podemos observar a distribuição das idades dos pais por raça
 
@@ -289,7 +289,7 @@ Com base no gráfico, podemos observar a distribuição das idades dos pais por 
 
 ### Diferença média de idade entre mãe e pai por raça, entre as que tiveram bebê antes dos 18 anos
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQEBmPm1-bItxw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205304193?e=1735776000&v=beta&t=Q2RCuOh9NM2eCH8SEMoQTFdv2GIMh4Q2rD2kQ2WA1Qo)
+![](https://media.licdn.com/dms/image/v2/D4D12AQEBmPm1-bItxw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205304193?e=1787184000&v=beta&t=ITK0AvvHa7kU3cMx8lQishrmF-tCWXqgBqLNjf-eWTs)
 
 Com base no gráfico, podemos observar a distribuição das idades dos pais por raça. Aqui estão os insights:
 
@@ -303,9 +303,7 @@ Em resumo, o gráfico nos ajuda a entender como a diferença de idade entre a m�
 
 Através de um algoritmo de aprendizado de máquina, treinado com os 29% dos dados que tinhamos, foi capaz de tornar úteis para nossa análise os 71% dos dados nulos com suas previsões. Assim temos:
 
-Machine Learning
-
-![](https://media.licdn.com/dms/image/v2/D5612AQFu39GtDpHtVA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721195205034?e=1735776000&v=beta&t=IhXklLmWyI9pb8tGhzmKianRBbPCUY00BlX39rc1i5Y)
+![](https://media.licdn.com/dms/image/v2/D5612AQFu39GtDpHtVA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721195205034?e=1787184000&v=beta&t=r9NaT_tPlVX5JS4tWf_lgvh-oMlCI5ioTeI1KI1vFSo)
 
 ### Quase 12% dos partos registrados no estado de Rondônia em 2019 foram adolescentes grávidas com marido maior de idade!
 
@@ -324,13 +322,13 @@ Adolescentes grávidas com homens mais velhos é um problema complexo que envolv
 
 Distribuição dos tipos de parto ao longo do ano de 2019
 
-![](https://media.licdn.com/dms/image/v2/D5612AQH-ezdWgwZElQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721195409289?e=1735776000&v=beta&t=XFebCwrZ77KgEEeBczNmMO68I_U8CSZNOywplnxtTOE)
+![](https://media.licdn.com/dms/image/v2/D5612AQH-ezdWgwZElQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721195409289?e=1787184000&v=beta&t=CfJgklvW8JqpiRILOJQ9ywWMmv49xzvl8XZgUk0awms)
 
 *Dos partos de 2019 **67.73% foram Cesáreo** e **32.27% foram Vaginal***
 
 ### Escolaridade da Mãe
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQFw7_KSolK8lA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721206942562?e=1735776000&v=beta&t=yvdizK0sFP-i4eBeLdNJFNU7FpVAin0neqKb33HqO2w)
+![](https://media.licdn.com/dms/image/v2/D4D12AQFw7_KSolK8lA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721206942562?e=1787184000&v=beta&t=7Mx5Omc09_rflywHVvLW7uAhv4LB7WKufq51jV1NTC8)
 
 Mães com nenhuma ou baixa escolaridade têm uma proporção significativamente maior de partos vaginais. À medida que a escolaridade aumenta (8 a 11 anos e 12 anos ou mais), a proporção de partos cesáreos aumenta também gradualmente.
 
@@ -338,7 +336,7 @@ Isso sugere que a educação materna pode influenciar as decisões sobre o tipo 
 
 ### Com base na idade da mãe
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQFCZA6CQS2OKg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721208743110?e=1735776000&v=beta&t=B35p64Y04KMwygLgH26Pi8YNNoq03lnTbMJEtDMrEUc)
+![](https://media.licdn.com/dms/image/v2/D4D12AQFCZA6CQS2OKg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721208743110?e=1787184000&v=beta&t=GQVM3RrrMqb7E14zjLuX1u6V5d3TnS4Cn7hzVk_ikWw)
 
 ### Relação entre a idade da mãe e o tipo de parto (Cesáreo ou Vaginal). Aqui estão as principais observações:
 
@@ -356,7 +354,7 @@ Em resumo, o gráfico mostra que os partos cesáreos são mais comuns em mães e
 
 ### Com base na raça e cor da pele do bebê
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQHWzz0WY4DCKw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721190565160?e=1735776000&v=beta&t=fbMgar1tAarGtDMgBKDo-w4j0WuLkeOOtkivBPFUXqg)
+![](https://media.licdn.com/dms/image/v2/D4D12AQHWzz0WY4DCKw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721190565160?e=1787184000&v=beta&t=uGctHTeHsC9kRhrlp5WU7xD3UkkE1PIwwsutdjNLf9A)
 
 Pelo gráfico entendemos que a cesárea é escolhida pela maioria das raças exceto a indígena em que acontece o contrário, mais frequente o parto vaginal. Também podemos dizer que os bebês brancos e amarelos têm maior probabilidade de nascer de cesariana do que as outras raças.
 
@@ -369,7 +367,7 @@ APGAR:
 - **APGAR5 bom:** Uma pontuação APGAR5 considerada boa é de 7 a 10 no quinto minuto de vida. Isso indica que o bebê está em boas condições de saúde e se adaptando bem à vida fora do útero.
 - **APGAR1 bom:** Uma pontuação APGAR1 considerada boa é de 6 ou mais no primeiro minuto de vida. Essa pontuação inicial é crucial para identificar bebês que podem precisar de ressuscitação ou outros cuidados imediatos.
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQFA6muClRtk5Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205527935?e=1735776000&v=beta&t=5q8umezvu7kc-7qPUQ2tMeQTVOh4rex9zlQqpkD5ffI)
+![](https://media.licdn.com/dms/image/v2/D4D12AQFA6muClRtk5Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721205527935?e=1787184000&v=beta&t=yB3tpACbilW19IiBX3urdcXeZv1cOCWXi4CVsIHn9to)
 
 Detalhes adicionais:
 
@@ -391,15 +389,15 @@ APGAR1:
 
 ### APGAR1 & APGAR5 com base na raça do bebê
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQGq299gnMXepw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721209276377?e=1735776000&v=beta&t=elnWr9HbbHMDghlY_ERMGfSvDk7NC5W-NTYCOlE3WiA)
+![](https://media.licdn.com/dms/image/v2/D4D12AQGq299gnMXepw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721209276377?e=1787184000&v=beta&t=EdsJbokqbaCba161eOAJw7f0I7qZzOiVvyHdOa6l9-A)
 
 ### APGAR1 & APGAR5 com base na raça do bebê (Entres as menores de idade)
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQHQ1MnhqCoUXA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204152271?e=1735776000&v=beta&t=9T13AilqvosRV1I50kXjzBd5VqAUli9QiFnZnIQfqgM)
+![](https://media.licdn.com/dms/image/v2/D4D12AQHQ1MnhqCoUXA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204152271?e=1787184000&v=beta&t=uftMLSc2zXYXiDZm20MWDhZ4PjXQCd3KGG0bLym_EZ0)
 
 ### Média do peso por raça
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQGRgSklWuWSpg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204851896?e=1735776000&v=beta&t=Bk_kLvcupJug8AwRKNfMYgTGMwr2u3Wo5ST_aHaSuko)
+![](https://media.licdn.com/dms/image/v2/D4D12AQGRgSklWuWSpg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204851896?e=1787184000&v=beta&t=2DbEdWFfvLAycZdyXNtWdHvSyuIp8qcqlOWPm-7J3Fg)
 
 **O gráfico intitulado “Média do peso por raça” apresenta a média de peso de bebês em relação a cinco categorias raciais: Indígena, Parda, Branca, Preta e Amarela. Vamos observar algumas informações importantes:**
 
@@ -412,15 +410,15 @@ APGAR1:
 
 - APGAR1
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQGzimR83WNNPg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204525229?e=1735776000&v=beta&t=BfsJS2mafA5VG-ajhLmkIyBzuN1WGiR7robTMkqWMgM)
+![](https://media.licdn.com/dms/image/v2/D4D12AQGzimR83WNNPg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204525229?e=1787184000&v=beta&t=rxnHAxS0mzwMy_DsleE4ydcps4nnIn67zNlEQbVF4zU)
 
 - APGAR5
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQGgYnDXsBuxUQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721202696437?e=1735776000&v=beta&t=0erlz6XoRjUWk48rTV3VFLair0YyvVZMPbLUHORnbCg)
+![](https://media.licdn.com/dms/image/v2/D4D12AQGgYnDXsBuxUQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721202696437?e=1787184000&v=beta&t=QkwULBXkfbwmRN1F_lPndxBgDCeN-IGXUovwINSNgJE)
 
 ### Média do peso por idade da mãe
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQHkGJAinVsa7Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721201688820?e=1735776000&v=beta&t=_rfWqeAdpWYooHPbzYBE7TMIse7MU6Eo1niXyoww8Io)
+![](https://media.licdn.com/dms/image/v2/D4D12AQHkGJAinVsa7Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721201688820?e=1787184000&v=beta&t=Q85czgQt81oucBWoCRhPLDhAbneSEPtp3q_snq6Oth4)
 
 Através deste gráfico, podemos descobrir melhor como o peso do bebê se comporta com base na idade que a mãe tem.
 
@@ -428,23 +426,23 @@ Também nos mostra que o peso aumenta com base na idade, até que para de oscila
 
 ### Média do peso pelo tempo de gestação
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQGke-Txa1LXaQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721209288991?e=1735776000&v=beta&t=mEEtIAgH3yHOhkth1GFGH2rLU_zzSz7euHVZzbhl6PI)
+![](https://media.licdn.com/dms/image/v2/D4D12AQGke-Txa1LXaQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721209288991?e=1787184000&v=beta&t=h1ORdbr6l3-TYWgbvXv7ybW2J6pZTHsv83l137NgrOI)
 
 ### Tempo de gestação com base na raça e cor de pele
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQFQFEhGTDSYqg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721208687930?e=1735776000&v=beta&t=B7xcXB3YQx0ks1ThB1pKWAJp4U9jDQ_w4J1yumnmPJk)
+![](https://media.licdn.com/dms/image/v2/D4D12AQFQFEhGTDSYqg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721208687930?e=1787184000&v=beta&t=RbofuWcMrTlowLd3LfKDFn-2ZxRfMl_DlNtdWLypCrc)
 
 Um bebê é considerado **prematuro** quando nasce antes de completar **37 semanas** de gestação. A gestação normal dura cerca de 40 semanas, contadas a partir do primeiro dia do último período menstrual da mãe. Portanto, qualquer nascimento antes desse período é considerado prematuro.
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQG9FcHvyXLV_Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204488919?e=1735776000&v=beta&t=uf1WDDdO7PQABfoqrhxvccy_jkGdblNZhs11AxfnQ5s)
+![](https://media.licdn.com/dms/image/v2/D4D12AQG9FcHvyXLV_Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204488919?e=1787184000&v=beta&t=onLUQVa4foFHy_oE3ppnkIA6VgyYk0kdAxijFZ2UtaU)
 
 Os bebês prematuros podem enfrentar desafios adicionais em seu desenvolvimento, uma vez que não tiveram o tempo completo no útero para amadurecer completamente. No entanto, os avanços na medicina neonatal permitem que muitos bebês prematuros tenham um bom prognóstico e cresçam saudáveis com os cuidados adequados.
 
 ### Com base na idade da mãe
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQHLidI6mXZk5g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721208514773?e=1735776000&v=beta&t=_Y96mAPfIlsCCuZ-_Ih5wEpRyJ_UTYxGu9iIQx65PGA)
+![](https://media.licdn.com/dms/image/v2/D4D12AQHLidI6mXZk5g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721208514773?e=1787184000&v=beta&t=tp3nBFnejEdxT1_u6Ux9-gFL8YXPfovLUJ5EfF9FN2k)
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQF7lUS8haE4_Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204399541?e=1735776000&v=beta&t=pElQ9TcbJ-C8O2C_HKY_ywGs8jqJadsdUmB9ibefbFk)
+![](https://media.licdn.com/dms/image/v2/D4D12AQF7lUS8haE4_Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1721204399541?e=1787184000&v=beta&t=pWe2F3PKII3EjwGwZM4XwioIVmEYdqrhQZ75sNgeToc)
 
 ---
 
